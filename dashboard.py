@@ -1,15 +1,11 @@
 import streamlit as st
 import json
-import pandas as pd
 from fuzzywuzzy import fuzz
+import mojimoji
 
 # ページ設定
-st.set_page_config(page_title="日経225 意味で検索エンジン", layout="wide")
+st.set_page_config(page_title="最強株検索", layout="wide")
 
-st.title("🔍 日経225「意味で検索」デモ")
-st.caption("AIとWikipediaの力で、うろ覚えの言葉から銘柄を探し出します。")
-
-# 1. データの読み込み
 @st.cache_data
 def load_data():
     with open('ai_stock_dictionary_v2.json', 'r', encoding='utf-8') as f:
@@ -17,39 +13,45 @@ def load_data():
 
 stocks = load_data()
 
-# 2. 検索インターフェース
-query = st.text_input("キーワードを入力してください（例：ドンキ、旧帝石、魚のちくわ、ゲームの会社）", placeholder="何をしている会社ですか？")
+st.title("🔎 日経225「超・意味検索」")
 
-if query:
-    # 3. 検索ロジック（あいまい検索）
+# 検索窓
+query_raw = st.text_input("何を探していますか？", placeholder="例：ちくわ、ゲーム、スカイツリー")
+
+if query_raw:
+    # 検索語の正規化（全角→半角、ひらがな→カタカナなど）
+    query = mojimoji.zen_to_han(query_raw).lower()
+    # 「の」を除去して検索しやすくする
+    query_clean = query.replace("の", " ")
+
     results = []
     for s in stocks:
-        # 名前 + 説明 + キーワードを合算してスコアリング
-        search_target = f"{s['name']} {s['simple_desc']} {s['keywords']}"
-        score = fuzz.token_set_ratio(query, search_target)
-        results.append({"data": s, "score": score})
-    
-    # スコアが高い順にソート
+        # スコア計算（3つのポイントを合計）
+        # 1. 銘柄名への完全・部分一致（配点：高）
+        name_score = fuzz.partial_ratio(query_clean, s['name']) * 2
+        
+        # 2. 説明文とキーワードへの意味的近さ（配点：中）
+        desc_text = f"{s['simple_desc']} {s['keywords']}"
+        desc_score = fuzz.token_set_ratio(query_clean, desc_text)
+        
+        # 3. 銘柄コードへの一致（配点：最高）
+        code_score = 100 if query_clean in s['code'] else 0
+        
+        # 合計スコア
+        total_score = name_score + desc_score + code_score
+        results.append({"data": s, "score": total_score})
+
     results = sorted(results, key=lambda x: x['score'], reverse=True)
-    
-    # 4. 結果表示
-    st.subheader(f"「{query}」の検索結果")
-    
-    # 上位6件をグリッドで表示
+
+    # 表示
+    st.write(f"### 「{query_raw}」の検索結果")
     cols = st.columns(3)
     for i, res in enumerate(results[:6]):
-        if res['score'] > 30: # 関連性が低いものは除外
+        if res['score'] > 40: # 閾値を少し調整
             with cols[i % 3]:
                 with st.container(border=True):
                     st.write(f"### {res['data']['name']}")
-                    st.code(res['data']['code'])
-                    st.write(f"**AI解説:** {res['data']['simple_desc']}")
-                    with st.expander("関連キーワード"):
+                    st.caption(f"コード: {res['data']['code']} / 関連度: {int(res['score'])}")
+                    st.write(res['data']['simple_desc'])
+                    with st.expander("AIキーワード"):
                         st.write(res['data']['keywords'])
-                    st.progress(res['data'].get('score', res['score']) / 100, text=f"関連度: {res['score']}%")
-else:
-    st.info("検索窓に言葉を入力して、AI辞書の威力を確かめてみてください。")
-
-# サイドバーに現在の登録状況を表示
-st.sidebar.header("📊 辞書のステータス")
-st.sidebar.write(f"現在の登録銘柄数: **{len(stocks)}** / 225")
