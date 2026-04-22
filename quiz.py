@@ -22,22 +22,34 @@ if 'quiz_state' not in st.session_state:
 
 def get_new_question():
     target = random.choice(stocks)
-    # 不正解肢を3つ選ぶ
-    distractors = random.sample([s for s in stocks if s['code'] != target['code']], 3)
+    
+    # --- 【改良】同じ業種の銘柄を優先的にハズレに選ぶ ---
+    # CSVから読み込んだ業種データが辞書に入っている場合
+    same_industry = [s for s in stocks if s.get('industry') == target.get('industry') and s['code'] != target['code']]
+    
+    if len(same_industry) >= 3:
+        # 同じ業種が3つ以上あれば、そこから選ぶ（超難問！）
+        distractors = random.sample(same_industry, 3)
+    else:
+        # 足りなければ残りはランダム
+        others = [s for s in stocks if s['code'] != target['code'] and s not in same_industry]
+        distractors = same_industry + random.sample(others, 3 - len(same_industry))
+    # -----------------------------------------------
+
     options = [target] + distractors
     random.shuffle(options)
     
-    # 問題文から名前を消す（伏せ字処理）
+    # 伏せ字処理（さらに徹底）
     question_text = target['simple_desc']
-    forbidden_words = [target['name'], target['name'].replace("ホールディングス", ""), "この会社"]
-    for word in forbidden_words:
-        question_text = question_text.replace(word, "「この企業」")
+    # 銘柄名に含まれる単語をすべて伏せる
+    for word in [target['name'], "ニッスイ", "トヨタ", "ソフトバンク"]: # 固有名詞対策
+        if word in question_text:
+            question_text = question_text.replace(word, "「某社」")
     
     st.session_state.current_q = target
     st.session_state.q_text = question_text
     st.session_state.options = options
     st.session_state.quiz_state = "question"
-    st.session_state.user_choice = None
 
 # 初回起動
 if st.session_state.current_q is None:
