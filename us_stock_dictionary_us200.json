@@ -1,0 +1,1602 @@
+[
+    {
+        "symbol": "NVDA",
+        "name": "エヌビディア",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はコンピューターゲームや人工知能に使われる強力なチップを作って売っています。パソコンやスマートフォンなど様々な製品に搭載され、ますます需要が高まっています。アメリカの株式市場では大人気銘柄です。",
+        "keywords": "Nvidia, Graphics Processing Unit(GPU), Jensen Huang, AMD, Intel, Artificial Intelligence, Gaming, Data Center, Cloud Computing, Machine Learning",
+        "explanation": "圧倒的な性能を持つGPUの設計と製造技術により、AIやゲーミングなど様々な分野で市場をリードしている。"
+    },
+    {
+        "symbol": "AAPL",
+        "name": "アップル",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はスマートフォンやパソコンを世界中で販売して稼いでいます。その製品はデザインが良く、使いやすいと評判です。また、独自のアプリケーションストアでアプリ収入も得ています。",
+        "keywords": "iPhone, iPad, Mac, Tim Cook, Samsung, Google, Microsoft, Consumer Electronics, Technology, Software",
+        "explanation": "革新的な製品デザインとエコシステムにより、Appleは世界トップのブランド力を誇ります。"
+    },
+    {
+        "symbol": "MSFT",
+        "name": "マイクロソフト",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はソフトウェアやクラウドサービスを作っていて、世界中で使われています。パソコンやスマホ向けのプログラムだけでなく、ゲームやオフィスソフトなど、色々な製品を出しています。",
+        "keywords": "Microsoft, Windows, Azure, Office 365, Xbox, Satya Nadella, Apple, Alphabet (Google), Amazon, Technology, Software, Cloud Computing",
+        "explanation": "世界シェアトップクラスのソフトウェアとクラウドサービスを持つ巨大企業。"
+    },
+    {
+        "symbol": "AMZN",
+        "name": "アマゾン・ドット・コム",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は世界最大のオンラインショッピングモールとして商品販売とAmazonプライム会員向けの動画配信サービスなどで稼いでいます。",
+        "keywords": "Amazonプライム, ECサイト, デジタルストリーミング, クラウドコンピューティング, AWS, Jeff Bezos, Walmart, eBay, Microsoft Azure, テクノロジー",
+        "explanation": "圧倒的な規模とサービスの幅で市場をリードし、成長を続けるプラットフォームエコシステムを持つ。"
+    },
+    {
+        "symbol": "GOOGL",
+        "name": "アルファベット Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はインターネット広告を主に販売することで稼いでいます。YouTubeやAndroidなどの事業も手がけており、世界中で多くのユーザーに使われています。",
+        "keywords": "Google, 検索エンジン, オンライン広告, YouTube, Android, クラウドコンピューティング, AI, Microsoft, Amazon, Meta, テクノロジー, ビッグテック",
+        "explanation": "圧倒的な市場シェアと多岐にわたる事業展開が強み。"
+    },
+    {
+        "symbol": "AVGO",
+        "name": "ブロードコム",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は半導体製品とソフトウェアを世界中の企業に販売しています。データセンターや通信網といった重要分野向けの製品が多く、需要が高いです。AIなどの最新技術も取り入れており、今後も成長が期待されています。",
+        "keywords": "Broadcom, semiconductor, infrastructure software, data center, networking, broadband, wireless, storage, industrial automation, AVGO, Tan Hock Eng, Intel, Qualcomm, Cisco, Texas Instruments",
+        "explanation": "データセンターや通信網など、世界経済の基盤となる分野で必須製品を提供する強みを持つ。"
+    },
+    {
+        "symbol": "GOOG",
+        "name": "アルファベット Ｃ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は検索エンジンや広告で世界中の人々に使われており、その技術力で多くのサービスを提供しています。インターネット関連以外にも、自動運転や人工知能など幅広い分野に挑戦していて、未来を創造する企業です。",
+        "keywords": "Google, Alphabet Inc., 検索エンジン, オンライン広告, Android, YouTube, Waymo, DeepMind, Microsoft, Amazon, テクノロジー, ビッグテック",
+        "explanation": "圧倒的な規模と技術力を誇り、インターネットサービス市場をリードし続けることができる。"
+    },
+    {
+        "symbol": "TSLA",
+        "name": "テスラ",
+        "market": "NASDAQ",
+        "simple_desc": "『この企業は電気自動車やバッテリーを販売して稼いでいます。自動運転技術にも力を入れているので、未来的な車を作ることに挑戦しています。世界中で人気が高く、成長のポテンシャルも高いです。』",
+        "keywords": "Tesla, Inc., 電気自動車, EV, テスラモーターズ, イーロン・マスク, NIO, GM, Volkswagen, 自動運転, バッテリー, 自動車産業",
+        "explanation": "革新的な技術とブランド力により、自動車業界をリードする存在として注目されている。"
+    },
+    {
+        "symbol": "META",
+        "name": "メタ・プラットフォームズ Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は、FacebookやInstagramなどのソーシャルメディアを通じて人々をつないでいることで稼いでいます。広告収入がメインですが、仮想現実など新しい技術にも力を入れています。米国市場では人気のある会社なので、日本からでも注目されています。",
+        "keywords": "Facebook, Instagram, WhatsApp, Metaverse, Virtual Reality, Social Media, Mark Zuckerberg, Alphabet (Google), Amazon, Microsoft, Tech Industry, Advertising",
+        "explanation": "圧倒的なユーザー数とプラットフォームを持つソーシャルメディア事業が最大の強みである。"
+    },
+    {
+        "symbol": "WMT",
+        "name": "ウォルマート",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は、スーパーや生活用品を安く販売して世界中の人々に支持されています。大きな店舗展開と低価格戦略が人気です。アメリカの主要な消費者向けのチェーンストアとして、多くの日本人投資家から注目されています。",
+        "keywords": "ウォルマート, 小売業, スーパーマーケット, 衣料品, 日用品, 電子機器, コンビニ, アマゾン, ターゲット, コストコ, サークルKサンクス, サムスン, アップル",
+        "explanation": "世界最大の小売企業としての圧倒的な規模と店舗網が強み。"
+    },
+    {
+        "symbol": "LLY",
+        "name": "イーライリリー",
+        "market": "NYSE",
+        "simple_desc": "この企業は医薬品を作っています。糖尿病や精神疾患などの治療薬を世界中で販売していて、多くの人の健康を守っています。",
+        "keywords": "Eli Lilly and Company, Humalog, Cialis, Taltz, Trulicity, Juergen (David) Werner, Johnson & Johnson, Pfizer, Novartis, Pharmaceutical Industry, Biotechnology",
+        "explanation": "高い研究開発能力と幅広い製品ポートフォリオを持つ世界トップクラスの製薬企業である。"
+    },
+    {
+        "symbol": "JPM",
+        "name": "ＪＰモルガン・チェース",
+        "market": "NYSE",
+        "simple_desc": "この企業は金融サービスを提供して稼いでいます。銀行業務や投資助言、カード発行など、お金に関するさまざまなサービスを提供しています。米国で大きな影響力を持つ会社なので、経済状況に敏感です。",
+        "keywords": "Financial Services, Banking, Investment Banking, Asset Management, Credit Cards, Jamie Dimon, Bank of America, Wells Fargo, Goldman Sachs, Citigroup, JPMorgan Chase & Co., Wall Street",
+        "explanation": "幅広い金融サービスを顧客に提供することで、安定した収益と強固な地位を獲得している。"
+    },
+    {
+        "symbol": "BRK.B",
+        "name": "バークシャーハザウェイ Ｂ",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中の様々な会社に投資して利益を得ています。特に保険や鉄道などの事業も大きく展開しており、安定した収益を生み出しています。世界有数の資産規模と、長期的な成長を重視する経営方針で注目されています。",
+        "keywords": "バークシャー・ハザウェイ, Warren Buffett, 投資会社, コングルメレイト, 保険, 鉄道, GEICO, BNSF, Coca-Cola, Apple, Amazon, 金融",
+        "explanation": "長期的な視点と分散投資戦略に基づく成功により、世界的に高い評価を受けている企業です。"
+    },
+    {
+        "symbol": "XOM",
+        "name": "エクソン・モービル",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中で石油やガスを採掘して売っています。 さらに、プラスチック製品や化学品も作っていて、たくさんの会社に材料を提供しています。日本でもガソリンスタンドを見かけるので、日常的に使っているかもしれません。",
+        "keywords": "ExxonMobil, Chevron, ConocoPhillips, 石油, 天然ガス, エネルギー, 石油精製, プラスチック, 化学製品, 環境問題",
+        "explanation": "世界最大のエネルギー企業の一つであり、資源の調達・生産能力と規模が最大の強みである。"
+    },
+    {
+        "symbol": "JNJ",
+        "name": "ジョンソン・エンド・ジョンソン",
+        "market": "NYSE",
+        "simple_desc": "『この企業は医薬品や医療機器、そして日用品を世界中で販売しています。バンドエイドやティレノール、使い捨てコンタクトレンズなど、よく知っている製品もたくさん作っていて、大勢の人々に使われています。』",
+        "keywords": "Johnson & Johnson, Pharmaceutical, Biotechnology, Medical Devices, Consumer Healthcare, Band-Aid, Tylenol, Contact Lenses, Janssen, Ethicon, McNeil, Pfizer, Novartis, Roche",
+        "explanation": "幅広い製品ポートフォリオとグローバルな存在感により、安定した収益基盤と成長性を誇る。"
+    },
+    {
+        "symbol": "V",
+        "name": "ビザ Ａ",
+        "market": "NYSE",
+        "simple_desc": "この企業は決済システムを提供して稼いでいます。クレジットカードやデビットカードが使われるお店やオンラインショッピングで活躍しています。海外での支払いにも便利なので、世界中で利用されています。",
+        "keywords": "Visa, payment processing, digital payments, Mastercard, American Express, financial technology, ecommerce, global payments, consumer spending, transaction fees",
+        "explanation": "広範なネットワークとブランド認知度により、世界中の支払いを支える基盤として確固たる地位を築いている。"
+    },
+    {
+        "symbol": "ORCL",
+        "name": "オラクル",
+        "market": "NYSE",
+        "simple_desc": "この企業はデータベースソフトや業務支援システムなどを販売して稼いでいます。主に大企業向けに、顧客管理や製造工程など様々なシステムを提供しています。米国市場では非常に人気があり、世界でもトップクラスの企業です。",
+        "keywords": "Oracle Database, Enterprise Applications, Cloud Computing, Database Software, ERP (Enterprise Resource Planning), HCM (Human Capital Management), CX (Customer Experience), SCM (Supply Chain Management), Microsoft, SAP, Amazon Web Services, Technology, Software",
+        "explanation": "世界トップクラスのシェアを持つデータベースソフトと幅広い業務支援システムで顧客に高い付加価値を提供する。"
+    },
+    {
+        "symbol": "MU",
+        "name": "マイクロン・テクノロジー",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はコンピューターが動くための小さな部品を作っている。その部品はパソコンやスマートフォンなど、いろんな電子機器に使われているんだ。世界中の人々が毎日使う技術の一部を作ることでお金を稼いでいるよ。",
+        "keywords": "Micron Technology, semiconductor, DRAM, NAND flash, memory chips, data storage, computer hardware, technology sector, Samsung, SK Hynix, Intel",
+        "explanation": "業界トップクラスのメモリチップ製造能力と、広範な製品ポートフォリオが強み。"
+    },
+    {
+        "symbol": "MA",
+        "name": "マスターカード Ａ",
+        "market": "NYSE",
+        "simple_desc": "この企業はクレジットカードやデビットカードが使えて、世界中で買い物ができるようにしている会社です。 日本でもよく使われているので、海外旅行に行く時にも便利です。 アメリカでは、多くの人がMastercardのクレジットカードを持っていて、お店で使われています。",
+        "keywords": "credit card, debit card, payment processing, Visa, American Express, financial services, global payments, ecommerce, digital wallet, consumer finance",
+        "explanation": "世界中のビジネスと消費者の間で広く使われているブランド力とグローバルなネットワークを持つ。"
+    },
+    {
+        "symbol": "AMD",
+        "name": "アドバンスト・マイクロ・デバイセズ（ＡＭＤ）",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はコンピューターの部品を売って稼いでいます。パソコンやゲーム機に使われるプロセッサが人気です。最近はサーバーやデータセンター向けの製品も伸ばしています。",
+        "keywords": "AMD, Advanced Micro Devices, CPU, GPU, FPGA, semiconductor, Intel, data center, gaming, high-performance computing, Xilinx",
+        "explanation": "幅広い分野で高性能な半導体製品を提供する、Intelと激しい競争を繰り広げている企業。"
+    },
+    {
+        "symbol": "COST",
+        "name": "コストコ・ホールセール",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は会員制倉庫型スーパーマーケットを展開し、大量に商品を購入する会員に低価格で販売することで稼いでいます。",
+        "keywords": "Costco Wholesale, membership warehouse club, bulk retail, Kirkland Signature, Sam's Club, Walmart, Amazon, grocery store, discount retailer, consumer goods",
+        "explanation": "圧倒的な規模と低価格戦略により、顧客獲得力に優れた企業である。"
+    },
+    {
+        "symbol": "NFLX",
+        "name": "ネットフリックス",
+        "market": "NASDAQ",
+        "simple_desc": "『この企業は世界中で人気の動画配信サービスを運営してて、会員に毎月料金を徴収することで稼いでます。オリジナル作品も制作してるので人気が高いです。日本でも利用者が多いサービスですよ』",
+        "keywords": "Netflix, ストリーミングサービス, 動画配信, エンターテイメント, Amazon Prime Video, Disney+, HBO Max, Reed Hastings, コンテンツ制作, OTT, サブスクリプション",
+        "explanation": "世界最大の会員数を誇り、独自のオリジナルコンテンツが大きな強みである。"
+    },
+    {
+        "symbol": "BAC",
+        "name": "バンク・オブ・アメリカ",
+        "market": "NYSE",
+        "simple_desc": "この企業はアメリカの金融サービスを提供している会社です。預金やローンなどを扱っていて、世界中でたくさんの人に利用されています。アメリカでは銀行としてとても有名で、多くの人が口座を持っています。",
+        "keywords": "Bank of America, BAC, Financial Services, Banking, Credit Cards, Investment Banking, Consumer Banking, JPMorgan Chase, Wells Fargo, Citigroup, Warren Buffett, Mergers and Acquisitions, Global Finance",
+        "explanation": "広範な金融サービスの提供網と強固なブランド認知度が、Bank of Americaの大きな強みです。"
+    },
+    {
+        "symbol": "CAT",
+        "name": "キャタピラー",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中の建設現場などで活躍する重機を販売しています。大型掘削機やブルドーザーなど、いろんな種類の重機を作り、世界中で売っています。",
+        "keywords": "Caterpillar Inc., Construction equipment, Heavy machinery, Excavator, Bulldozer, Komatsu, John Deere, Volvo Construction Equipment, Jim Umpleby, Industrial sector",
+        "explanation": "世界最大の建設機械メーカーであり、ブランド信頼性と製品の耐久性が強く、顧客からの信頼が厚い。"
+    },
+    {
+        "symbol": "CVX",
+        "name": "シェブロン",
+        "market": "NYSE",
+        "simple_desc": "この企業は石油やガスを探し出して売ることで稼いでいます。世界中のいろいろな場所でやっていて、ガソリンスタンドもたくさん持っています。日本でも使われているので、みんなが知っている会社です。",
+        "keywords": "Chevron Corporation, oil, gas, refining, energy, exploration & production, conglomerate, ExxonMobil, BP, Shell, Mike Wirth, US energy sector",
+        "explanation": "世界規模での油ガス資産と精製能力により、安定した収益基盤を構築している。"
+    },
+    {
+        "symbol": "BRK.A",
+        "name": "バークシャーハザウェイ Ａ",
+        "market": "NYSE",
+        "simple_desc": "『この企業は世界中の様々な会社に投資をして稼いでいます。株式投資や買収などを行い、長期的に価値のある事業を育てています。Warren Buffettという有名な投資家が経営しており、多くのファンを持っています。』",
+        "keywords": "バークシャー・ハザウェイ, ウォーレン バフェット, 投資, コングローメレート, 株式, 買収, 保険, エネルギー, 鉄道, 製造, 金融, アメリカン・エクスプレス, コカコーラ, アップル",
+        "explanation": "長期的な視点と緻密な分析で選定した投資ポートフォリオが強みであり、高いリターンを達成してきた。"
+    },
+    {
+        "symbol": "ABBV",
+        "name": "アッヴィ",
+        "market": "NYSE",
+        "simple_desc": "この企業は病気治療薬を作っています。特に免疫力低下や癌の治療に強い点で有名です。",
+        "keywords": "AbbVie, Humira, Imbruvica, Richard Gonzalez, Johnson & Johnson, Pfizer, Eli Lilly, Biotechnology, Pharmaceuticals, Healthcare",
+        "explanation": "免疫疾患治療薬「ヒューミラ」が世界的に高シェアを誇り、安定した収益基盤を持つ。"
+    },
+    {
+        "symbol": "HD",
+        "name": "ホーム・デポ",
+        "market": "NYSE",
+        "simple_desc": "この企業はDIYやホームリフォームに必要な材料や道具を販売しています。アメリカ国内では多くの店舗があり、幅広い商品を揃えていることで人気です。住宅市場が好調な時、売上も増える傾向があります。",
+        "keywords": "Home Depot, Lowe's, construction, DIY, home improvement, retail, building materials, tools, Ted Decker, consumer goods",
+        "explanation": "幅広い商品を揃えた店舗網と、顧客サービスの充実が強み。"
+    },
+    {
+        "symbol": "CSCO",
+        "name": "シスコシステムズ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はコンピュータネットワーク機器を作っていて、世界中の会社や政府が使うものが多いんだ。その製品のおかげで、人々がインターネットを使って仕事や生活を楽しむことができるんだよ。日本でも多くの人が、この企業の製品を使っているかもしれないね。 ",
+        "keywords": "Cisco Systems, networking equipment, routers, switches, cloud computing, security solutions, collaboration tools, hardware, software, telecom industry, IBM, Juniper Networks, HPE",
+        "explanation": "世界シェアトップのネットワーク機器メーカーで、企業や個人向けに幅広いソリューションを提供している。"
+    },
+    {
+        "symbol": "PG",
+        "name": "プロクター・アンド・ギャンブル（Ｐ＆Ｇ）",
+        "market": "NYSE",
+        "simple_desc": "この企業は日用品をたくさん売って稼いでいます。シャンプーや洗剤、柔軟剤など、家のあちこちで使っている商品を作っていて、世界中で人気があります。",
+        "keywords": "プロクター・アンド・ギャンブル, P&G, ブランド名, ボールド, ゲイックス, パンテーン, ヘッド＆ショルダーズ, ティッシュペーパー, セクター名, 日用品, 消費財, コカコーラ, ユニリーバ, 宝酒造",
+        "explanation": "世界中にファンを持つ強力なブランド portfolio と、グローバルな販売ネットワークは P&G の大きな強みである。"
+    },
+    {
+        "symbol": "PLTR",
+        "name": "パランティア・テクノロジーズ Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "『この企業はデータ分析プラットフォームを作ることで稼いでいます。』政府機関や企業に売っていて、特に軍事・スパイ活動で使われているのが有名です。アメリカ市場では人気が高く、株価も高いですが、プライバシー問題などで議論も多いです。",
+        "keywords": "Palantir Technologies, データ分析プラットフォーム, Gotham, Foundry, Apollo, AIP, Peter Thiel, Alex Karp, 米政府, 軍事, 民間企業, ビッグデータ, プライバシー問題, ソフトウェア",
+        "explanation": "高度なデータ統合・分析能力を持つ独自のプラットフォームが、政府機関や企業からの高い需要を生み出している。"
+    },
+    {
+        "symbol": "INTC",
+        "name": "インテル",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はコンピューターの重要な部品であるCPUを作っていて、パソコンやスマホに使われています。世界中の多くのコンピューターに欠かせないパーツを供給していて、アメリカでは一番大きな会社の一つです。",
+        "keywords": "Intel Corporation, semiconductor, microprocessor, CPU, PC, laptop, smartphone, Nvidia, AMD, technology, Santa Clara, Fortune 500",
+        "explanation": "世界で最も広く使われているCPUを製造することで、パソコン市場の支配力を誇り続ける。"
+    },
+    {
+        "symbol": "LRCX",
+        "name": "ラムリサーチ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は、コンピュータチップを作るための機械やサービスを作っています。世界中の工場で使われていて、スマートフォンやゲーム機などに使われているチップの製造に欠かせない存在です。",
+        "keywords": "Lam Research, LRCX, Semiconductor Equipment, Wafer Fabrication, Microelectronics, MEMS, ASML, Applied Materials, KLA Corporation, David K. Lam, Fremont, California",
+        "explanation": "世界トップクラスの技術力で、半導体製造の必須機器を供給し続ける強みを持つ。"
+    },
+    {
+        "symbol": "KO",
+        "name": "コカ・コーラ",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中で愛される炭酸飲料を販売して稼いでいます。そのブランド力は高く、多くの人々に選ばれています。特に暑い日には冷たいコカコーラが人気です。",
+        "keywords": "Coca-Cola, Soft drink, Beverage, Fizzy drink, James Quincey, PepsiCo, Dr Pepper Snapple Group, Consumer goods, Food & Beverage, Global brand, Marketing",
+        "explanation": "世界中で愛されるブランド力と幅広い製品ポートフォリオが最大の強み。"
+    },
+    {
+        "symbol": "GE",
+        "name": "ＧＥエアロスペース",
+        "market": "NYSE",
+        "simple_desc": "『この企業は飛行機などの航空機部品やエンジンを作る会社です。アメリカの大きな工場で作られた製品が世界中の飛行機で使われていて、ビジネスには欠かせない存在です。新型コロナの影響で少し大変でしたが、これからまた多くの人が飛行機に乗って世界中へ旅することができるようになりそうだね。』",
+        "keywords": "GEエアロスペース, 航空機部品, ジェットエンジン, ボーイング, エアバス, アビエーション, 投資, エネルギー, 医療機器, 製造業",
+        "explanation": "世界トップシェアの航空関連事業を持つ、信頼性の高い技術力とグローバルなネットワークが強み。"
+    },
+    {
+        "symbol": "AZN",
+        "name": "アストラゼネカ",
+        "market": "NYSE",
+        "simple_desc": "この企業は病気の治療薬を作っています。  世界中でたくさんの人に薬を届けることでお金を稼いでいます。特に、新型コロナウイルスに対するワクチンで注目されています。",
+        "keywords": "AstraZeneca, Pharmaceuticals, Biotechnology, Drug Development, Vaccine, Cancer Treatment, Respiratory Diseases, Pascal Soriot, Pfizer, Novartis, Johnson & Johnson",
+        "explanation": "世界トップクラスの薬開発力と幅広い製品ポートフォリオで、世界的な感染症や癌治療に貢献している。"
+    },
+    {
+        "symbol": "AMAT",
+        "name": "アプライド・マテリアルズ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はsemiconductor manufacturing equipmentを作っています。世界中の工場で作られるスマホやパソコンに使われている半導体を製造する装置を売っていて、みんなが使うものを作るのに欠かせない存在です。アメリカの市場で活躍していて、多くの会社が頼りにしているほどです。",
+        "keywords": "Applied Materials, semiconductor equipment, semi-conductor manufacturing, silicon wafer fabrication, chip production, ASML, KLA Corp., Lam Research, technology industry, electronics manufacturing",
+        "explanation": "世界トップシェアの半導体製造装置メーカーである。"
+    },
+    {
+        "symbol": "MS",
+        "name": "モルガン・スタンレー",
+        "market": "NYSE",
+        "simple_desc": "この企業は金融サービスを提供しています。株式や債券の売買をしたり、顧客に融資を行ったりして収益を得ています。世界中の様々な場所で事業を展開しており、米国の市場では大きな存在です。",
+        "keywords": "Morgan Stanley, Financial Services, Investment Banking, Wealth Management, Trading, Goldman Sachs, JPMorgan Chase, Bank of America, Finance Industry, Global Markets",
+        "explanation": "モルガン・スタンレーは、世界トップクラスの金融サービス企業であり、幅広い事業を展開することで安定した収益源を獲得している。"
+    },
+    {
+        "symbol": "UNH",
+        "name": "ユナイテッド・ヘルス・グループ",
+        "market": "NYSE",
+        "simple_desc": "この企業は健康保険を販売することで稼いでいます。アメリカの人々が病気になったら病院に行っても安心できるように、お金の準備をしてくれる会社です。医療費が高くなるのが心配な人々に役立つサービスを提供しています。",
+        "keywords": "UnitedHealth Group, Healthcare, Insurance, Medicare, Medicaid, Employer-sponsored insurance, Anthem, CVS Health, Humana, Express Scripts, Health Maintenance Organization (HMO), Preferred Provider Organization (PPO)",
+        "explanation": "圧倒的な規模と顧客基盤を持つ、アメリカ最大の健康保険会社である。"
+    },
+    {
+        "symbol": "MRK",
+        "name": "メルク",
+        "market": "NYSE",
+        "simple_desc": "この企業は医薬品を開発・販売しています。世界中で多くの病気に対する治療薬を提供しており、その売上の大部分を占めています。",
+        "keywords": "pharmaceuticals, drug development, prescription drugs, vaccines, healthcare, biotechnology, Johnson & Johnson, Pfizer, Novartis, GlaxoSmithKline, Robert Davis",
+        "explanation": "革新的な医薬品の研究開発とグローバルな販売網が強み。"
+    },
+    {
+        "symbol": "GS",
+        "name": "ゴールドマン・サックス・グループ",
+        "market": "NYSE",
+        "simple_desc": "『この企業はアメリカの金融市場を大きく動かす仕事をしているんだ。株や債券を買ったり売ったりして利益を得ていて、世界中の会社や個人にサービスを提供しているよ。』",
+        "keywords": "ゴールドマン・サックス, 投資銀行, 証券取引, 資産運用, 財務アドバイス, ウォールストリート, JPMorgan Chase, Morgan Stanley, Bank of America, Citigroup, 金融セクター",
+        "explanation": "グローバルな顧客ベースと幅広い金融サービスのポートフォリオにより、市場リーダーとしての地位を確立している。"
+    },
+    {
+        "symbol": "GEV",
+        "name": "ＧＥベルノバ",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中のエネルギー問題解決のために様々な技術やソリューションを提供している会社です。風力発電から天然ガス発電、デジタルテクノロジーまで幅広い事業を展開しています。米国市場では、再生可能エネルギーの需要の高まりにより成長が見込める注目株です。",
+        "keywords": "GE Vernova, エネルギー企業, 持続可能なエネルギー, 再生可能エネルギー, 風力発電, 天然ガス発電, デジタルテクノロジー, 電力システム, 産業オートメーション, Siemens Energy, NextEra Energy",
+        "explanation": "世界トップクラスの技術と広範な事業ポートフォリオを持つ総合エネルギー企業である。"
+    },
+    {
+        "symbol": "RTX",
+        "name": "ＲＴＸ",
+        "market": "NYSE",
+        "simple_desc": "この企業は航空宇宙関連製品や軍事技術を開発して売っていて、米軍に多く売っているんだ。世界的に見れば大手企業で、アメリカの富豪100人ランキングにも入ってるよ！",
+        "keywords": "RTX, Raytheon Technologies Corporation, Raytheon Company, United Technologies Corporation, UTC, Aerospace, Defense, Military Contractor, Boeing, Lockheed Martin, Gregory J. Hayes, Avionics, Aircraft Engines, Cybersecurity, Satellites",
+        "explanation": "世界最大級の航空宇宙・防衛企業であり、米軍との契約が主要な収入源。"
+    },
+    {
+        "symbol": "RY",
+        "name": "ロイヤル・バンク・オブ・カナダ",
+        "market": "NYSE",
+        "simple_desc": "この企業は金融サービスを提供しています。カナダ国内では銀行サービスで大きくシェアを持ち、個人や企業向けに様々な金融商品を扱っています。海外進出もしており、世界中で事業を展開しています。",
+        "keywords": "ロイヤルバンクオブカナダ, RBC, 金融サービス, 銀行, 投資, 資産管理, カナダ企業, 北米金融, BMO, TD Bank, Scotiabank",
+        "explanation": "ロイヤルバンクオブカナダは、堅牢な財務基盤と幅広い製品ポートフォリオを活かした安定した収益性で強みを持つ。 "
+    },
+    {
+        "symbol": "WFC",
+        "name": "ウェルズ・ファーゴ",
+        "market": "NYSE",
+        "simple_desc": "この企業は金融サービスを提供しています。預金や融資などの一般的な銀行業務に加えて、クレジットカードや資産管理など様々なサービスも展開しているんです。米国の生活に欠かせない存在と言えます。",
+        "keywords": "Wells Fargo, Banking, Financial Services, Bank, JPMorgan Chase, Citigroup, Goldman Sachs, Charles Scharf, American Banking, US Financial Sector",
+        "explanation": "米国の金融市場で長年信頼を得てきたブランド力と広範なサービス網が強み。"
+    },
+    {
+        "symbol": "PM",
+        "name": "フィリップ・モリス・インターナショナル",
+        "market": "NYSE",
+        "simple_desc": "この企業はタバコを売って稼いでいます。世界中でたくさんの人がタバコを吸っているため、利益が大きいです。アメリカでも人気のあるタバコのブランドを持っています。",
+        "keywords": "Philip Morris International, Marlboro, IQOS, Altria Group, British American Tobacco, smoking, tobacco industry, vapor products, global market share, consumer goods",
+        "explanation": "世界シェアの大きいタバコブランドをもち、加熱式たばこなど新たな製品も開発している強みを持つ。"
+    },
+    {
+        "symbol": "IBM",
+        "name": "ＩＢＭ",
+        "market": "NYSE",
+        "simple_desc": "この企業はコンピュータやソフトウェアなどを販売して稼いでいます。オフィスで使われる大きいコンピューターからスマホやパソコンなど、いろんな機器を作っています。アメリカの会社なので、アメリカ国内での需要に合わせて製品を開発しているのが特徴です。",
+        "keywords": "IBM, Big Blue, パーソナルコンピュータ, ThinkPad, クラウドコンピューティング, 人工知能, ハイパースケーリング, Microsoft, Amazon, Oracle, テクノロジー, IT企業",
+        "explanation": "世界最大級の技術力で、幅広い分野で革新的な製品やサービスを提供している点が強みである。"
+    },
+    {
+        "symbol": "KLAC",
+        "name": "ＫＬＡ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はスポーツラジオ放送で稼いでいます。主にロサンゼルスの地域のリスナーを対象に、MLBロサンゼルス・ドジャースやNBAロサンゼルス・クリッパーズなどの人気チームの試合を生中継したり、話題のスポーツニュースを伝えることで収益を得ています。",
+        "keywords": "KLAC, Sports Radio, iHeartMedia, Fox Sports Radio, Los Angeles Dodgers Audio Network, Los Angeles Clippers, Radio Broadcast, Fred Roggin, Rodney Peete, Petros Papadakis",
+        "explanation": "ロサンゼルス地区のスポーツラジオ市場における強いブランド力と、人気チームとの提携が強み。"
+    },
+    {
+        "symbol": "LIN",
+        "name": "リンデ",
+        "market": "NASDAQ",
+        "simple_desc": "「この企業は自動車などのさまざまな電子機器で使われているセンサーやコンピューター制御システムを開発・販売しているんだ。安全運転を助ける技術や、車の自動運転にも役立つような製品を作っていて、世界中で使われているよ。」",
+        "keywords": "LIN Corporation, sensors, embedded systems, automotive electronics, driver assistance systems, autonomous driving, ADAS, Bosch, Continental, NXP Semiconductors",
+        "explanation": "LINは、自動車業界で広く利用されているセンサーとコンピューター制御システムの専門企業として、高いシェアと堅実な技術力を有している。"
+    },
+    {
+        "symbol": "C",
+        "name": "シティグループ",
+        "market": "NYSE",
+        "simple_desc": "この企業は金融サービスを提供していて、世界中の銀行や個人に融資や証券取引などのサービスをしています。大きな企業なので、経済状況の影響を受けやすいのが特徴です。米国やヨーロッパなどで事業を展開しています。",
+        "keywords": "Citigroup, Financial Services, Banking, Investment Banking, Asset Management, Credit Cards, Consumer Lending, JPMorgan Chase, Bank of America, Goldman Sachs, Global Finance",
+        "explanation": "世界最大の金融機関の一つであり、幅広い金融サービスをグローバルに提供している強みを持つ。"
+    },
+    {
+        "symbol": "AXP",
+        "name": "アメリカン・エキスプレス",
+        "market": "NYSE",
+        "simple_desc": "この企業はクレジットカード会社で、世界中でカードを使ってお店でお買い物したり、旅行をしたりできるようにしています。お店の経営者も使って利益を得られる仕組みを作っているから、日本でも人気があります。",
+        "keywords": "アメリカン・エキスプレス, クレジットカード, 決済システム, ポイントプログラム, 旅行サービス, 加盟店ネットワーク, マスターカード, VISA, 金融セクター, ジェームズ・ケンプ",
+        "explanation": "世界最大のブランド認知度と広範な加盟店のネットワークを持つ、グローバルな決済ソリューション企業である。"
+    },
+    {
+        "symbol": "TMUS",
+        "name": "ティ－モバイル ＵＳ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はアメリカの携帯電話会社です。  たくさんの人が利用しているスマホの通信サービスを提供して稼いでいます。アメリカで二番目に大きい企業なんだそうです。",
+        "keywords": "T-Mobile, Metro by T-Mobile, Sprint, Deutsche Telekom, Verizon, AT&T, 5G, Wireless Communications, Telecommunications, John Legere, Mint Mobile, Ultra Mobile",
+        "explanation": "大手携帯電話会社の合併を繰り返し、市場シェアを拡大し続けることで競争力を強化している。"
+    },
+    {
+        "symbol": "MCD",
+        "name": "マクドナルド",
+        "market": "NYSE",
+        "simple_desc": "『この企業はハンバーガーやフライドポテトなどのファストフードを世界中で売って稼いでいる。アメリカではそのシェアが最も多く、たくさんの人がよく利用しているよ。』",
+        "keywords": "McDonald's, Fast food, Burger, French fries, Chris Kempczinski, Subway, Burger King, Yum! Brands, Restaurant industry, QSR",
+        "explanation": "世界的なブランド認知度と広範なネットワークにより、顧客獲得力と収益性の高いフランチャイズモデルを持つ。"
+    },
+    {
+        "symbol": "PEP",
+        "name": "ペプシコ",
+        "market": "NASDAQ",
+        "simple_desc": "『この企業は世界中で愛飲されている、炭酸飲料やスナック菓子などを売っていて稼いでいる。』",
+        "keywords": "Pepsi, Coca-Cola, Frito-Lay, Gatorade, Mountain Dew, Snack foods, Beverages, Global Brands, Soft drinks, FMCG, Consumer goods, Irwin Simon",
+        "explanation": "グローバルブランドの認知度と幅広い製品ポートフォリオが強み。"
+    },
+    {
+        "symbol": "TXN",
+        "name": "テキサス・インスツルメンツ（ＴＩ）",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は電子部品を製造して売っていて、スマートフォンやパソコンなどのに使われています。世界中でたくさんの製品に使われているので安定した売上があります。",
+        "keywords": "Semiconductor, Microchip, Analog IC, Embedded Processing, RF Technology, TI MSP430, Texas Instruments CEO, Qualcomm, Intel, Nvidia, STMicroelectronics",
+        "explanation": "幅広い製品ラインナップと半導体技術の強みが大きな強み。"
+    },
+    {
+        "symbol": "ANET",
+        "name": "アリスタ・ネットワークス",
+        "market": "NYSE",
+        "simple_desc": "この企業はネットワーク機器を製造して売っています。特に大きな会社や政府が使う設備に強く、安定した収入を得ています。アメリカでは需要が高く、今後も成長が見込まれています。",
+        "keywords": "ネットワーク機器, クラウドコンピューティング, データセンター, セキュリティ, Cisco, Juniper Networks, Palo Alto Networks, AI, IoT, ソフトウェア定義化",
+        "explanation": "幅広い顧客層に高い需要を持つネットワーク製品のポートフォリオと、業界をリードする技術力。"
+    },
+    {
+        "symbol": "VZ",
+        "name": "ベライゾン・コミュニケーションズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は通信サービスを提供して稼いでいます。インターネットや電話、テレビといった様々なサービスを自宅や外出先でも使えるように提供しています。日本でも同じようなサービスを提供している企業と比較することができます。",
+        "keywords": "Verizon Communications, 通信事業, 5G, モバイルネットワーク, 固定電話, インターネットサービス, クラウドコンピューティング, T-Mobile, AT&T, Telecom Industry, アメリカン・テクノロジー",
+        "explanation": "大手通信事業者として、広範な顧客基盤と安定した収益構造が強みである。"
+    },
+    {
+        "symbol": "TMO",
+        "name": "サーモ・フィッシャー・サイエンティフィック",
+        "market": "NYSE",
+        "simple_desc": "この企業は科学研究に使われる器具や材料を世界中に売っています。アメリカの大学や病院、それから製薬会社などが使うものです。",
+        "keywords": "ライフサイエンス, 医療機器, 研究用具, ラボ用品, バイオテクノロジー, 診断キット, 分子生物学, 遺伝子工学, 医薬品開発, Thermo Scientific",
+        "explanation": "世界トップシェアを持つ、幅広い製品ポートフォリオと独自の強固な顧客基盤が最大の強み。"
+    },
+    {
+        "symbol": "TTE",
+        "name": "トタルエナジーズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中の人にエネルギーを提供しています。石油やガスの探査・生産、そしてその製品を売ることでお金を稼いでいます。海外での事業展開が非常に盛んです。",
+        "keywords": "TotalEnergies, Oil and Gas, Energy, ExxonMobil, Shell, Chevron, BP, Renewable Energy, France, International Business",
+        "explanation": "世界トップクラスの石油・ガス生産能力と、再生可能エネルギー分野への積極的な投資が強み。"
+    },
+    {
+        "symbol": "NEE",
+        "name": "ネクステラ・エナジー",
+        "market": "NYSE",
+        "simple_desc": "この企業は政治活動を行っていた組織です。2007年の選挙後は活動を休止し、映画製作やブログなどを手がけています。現在、再び政治活動を行う予定かどうかは不明です。",
+        "keywords": "political protest group, Belgium, NEE party, Antwerp, municipal elections, general election, movie project, fictional suicide blog",
+        "explanation": "NEEは、既存の政治体制に不満を持つ人々に選択肢を提供するために設立された政治運動団体でした。"
+    },
+    {
+        "symbol": "AMGN",
+        "name": "アムジェン",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は病気の治療薬を作っているアメリカの会社です。がんや骨粗鬆症など色々な病気を治す薬を作って売っています。アメリカではたくさんの人がこの会社の薬を飲んでいて、世界でも有名な会社です。",
+        "keywords": "Amgen, Biopharmaceutical company, Therapeutic drugs, Cancer treatment, Osteoporosis treatment, Robert Bradway, Pfizer, Novartis, Johnson & Johnson, Eli Lilly, Biotechnology, Healthcare, NASDAQ",
+        "explanation": "革新的なバイオ医薬品開発と、幅広い製品ポートフォリオを持つことで市場で高いシェアを誇っている。"
+    },
+    {
+        "symbol": "DIS",
+        "name": "ウォルト・ディズニー",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中で愛されている映画やキャラクターを作っていて、テーマパークも運営しています。日本ではディズニーランドやディズニーシーが大人気です。その人気から、たくさんのグッズを売ることで儲かっています。",
+        "keywords": "Walt Disney Company, Disneyland, Disney World, Marvel, Star Wars, Pixar, Bob Iger, Netflix, Comcast, Warner Bros., Theme Parks, Media and Entertainment",
+        "explanation": "ディズニーは世界的に愛されるブランドと幅広いコンテンツライブラリを持つ、圧倒的なエンターテイメント企業です。"
+    },
+    {
+        "symbol": "APH",
+        "name": "アンフェノール Ａ",
+        "market": "NYSE",
+        "simple_desc": "この企業は軍艦の避難輸送船を製作しています。米国市場では、この分野で他の企業と比べて高いシェアを持っているため、安定した収益が期待できます。",
+        "keywords": "軍事輸送, Evacuation transport, US Navy, Defense industry, shipbuilding, logistics, government contracts, military procurement, naval vessels, defense technology",
+        "explanation": "高い技術と米国海軍との信頼関係により、強固な市場シェアを築いている。"
+    },
+    {
+        "symbol": "ADI",
+        "name": "アナログ・デバイセズ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はパソコンモニターを製造して販売していました。世界第五位のシェアを獲得し、AppleやCompaqといった大手顧客にも製品を提供していました。米国市場での事業活動が主要でした。",
+        "keywords": "ADI Systems, Computer Monitor, Apple, Compaq, Optiquest, Monitor Manufacturer, Taiwanese Company, Hardware, Computer Peripherals, 1970s Companies",
+        "explanation": "かつて世界トップ5のシェアを誇ったパソコンモニターメーカーであり、大手顧客を獲得する強みを持っていた。"
+    },
+    {
+        "symbol": "T",
+        "name": "ＡＴ＆Ｔ",
+        "market": "NYSE",
+        "simple_desc": "この企業は通信回線を提供して稼いでいます。電話やインターネットが使えるようにする事業を行っていて、アメリカではたくさんの人が利用しています。",
+        "keywords": "telecom, wireless, 5G, fiber optic, internet service, phone service, streaming, content, verizon, t-mobile",
+        "explanation": "幅広い通信ネットワークとサービスを持つ規模の大きな企業。"
+    },
+    {
+        "symbol": "TD",
+        "name": "トロント・ドミニオン・バンク",
+        "market": "NYSE",
+        "simple_desc": "この企業はカナダで一番大きい銀行のひとつです。住宅ローンやクレジットカードなどのサービスを提供して、人々の生活を支えています。アメリカでも事業を広げているので、アメリカの投資家にとっても関係があります。",
+        "keywords": "Toronto-Dominion Bank, TD Bank, financial services, banking, credit cards, mortgage loans, Canada, United States, Bank of Nova Scotia, Royal Bank of Canada, Bank of Montreal",
+        "explanation": "カナダで最も大きな金融機関としての規模と、北米市場における広範な顧客基盤が強み。"
+    },
+    {
+        "symbol": "BA",
+        "name": "ボーイング",
+        "market": "NYSE",
+        "simple_desc": "この企業は旅客機や軍事機の製造販売で稼いでいます。世界中の航空会社に愛されるブランド力で事業を展開しており、米国市場では強い人気があります。",
+        "keywords": "Boeing, Airplanes, Defense, Commercial Aviation, 737, 747, 787, Airbus, Lockheed Martin, Raytheon",
+        "explanation": "世界トップシェアの旅客機製造企業であり、革新的な航空技術と高い品質で知られている。"
+    },
+    {
+        "symbol": "TJX",
+        "name": "ＴＪＸ",
+        "market": "NYSE",
+        "simple_desc": "この企業はオフプライス（掘り出し物）商品の販売で稼いでいます。 TJ MaxxやMarshallsといったブランドで、割引価格で人気商品をたくさん扱っています。アメリカのマーケットではトップクラスの会社です。",
+        "keywords": "TJX Companies, TJ Maxx, TK Maxx, Marshalls, HomeGoods, HomeSense, Sierra, Winners, オフプライス, ディスカウントストア, 小売業, Zayre Corp, Ross Stores, Burlington Coat Factory",
+        "explanation": "世界中で複数のブランドを展開し、自社で仕入れた大量の商品を安く販売することで高い利益率を実現している。"
+    },
+    {
+        "symbol": "CRM",
+        "name": "セールスフォース",
+        "market": "NYSE",
+        "simple_desc": "この企業は、世界中にある会社が使うパソコンソフトを販売して稼いでいます。日本の会社も使っているんです！アメリカの会社の仕事効率化に貢献することで儲かっています。",
+        "keywords": "Salesforce, CRM software, Customer relationship management, Cloud computing, Marc Benioff, Microsoft Dynamics, Oracle Siebel, SAP CRM, Adobe Experience Cloud, ServiceNow",
+        "explanation": "世界中の企業が利用するNo.1のCRMプラットフォームとして、高いシェアと顧客基盤を有している。"
+    },
+    {
+        "symbol": "GILD",
+        "name": "ギリアド・サイエンシズ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はウイルス性の病気（HIVや肝炎）を治療する薬を開発して販売しています。その薬は効果が高く世界中で需要が高いです。そのため高売上が見込めるのが魅力ですが、価格の高騰が問題視されている点も注意が必要です。",
+        "keywords": "Gilead Sciences, antiviral drugs, HIV/AIDS, hepatitis C, Sovaldi, Truvada, Viread, Hepsera, biopharmaceutical company, Nasdaq-100, S&P 100, pharmaceuticals",
+        "explanation": "世界をリードするウイルス性疾患治療薬の開発・販売実績が強み。"
+    },
+    {
+        "symbol": "ABT",
+        "name": "アボット・ラボラトリーズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は病気や怪我を治すための薬を作っています。世界中でたくさんの人に役立つ薬を作り続けています。日本でもよく使われている薬もたくさんあります。",
+        "keywords": "アボット・ラボラトリーズ, 製薬会社, 制がん剤, 糖尿病治療薬, 免疫疾患治療薬, ステロイド, パブスト, ジョンソン＆ジョンソン, ノバリス, ファイザー",
+        "explanation": "世界トップクラスの医薬品研究開発能力と幅広い製品ポートフォリオを持つ。"
+    },
+    {
+        "symbol": "SHOP",
+        "name": "ショッピファイ Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は商品を売買する場所を提供して稼いでいます。アメリカのオンラインでの買い物が盛んになり、その需要が高まっています。",
+        "keywords": "E-commerce, Online Retail, Marketplace, Amazon, eBay, Shopify, Retail Sector, Consumer Goods, Digital Economy, Technology",
+        "explanation": "幅広い規模の企業が利用できるプラットフォームを提供することで、市場シェアを大きく拡大できている。"
+    },
+    {
+        "symbol": "ISRG",
+        "name": "インテュイティブ・サージカル",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は手術ロボットを作っていて、病院にそれを売っていることでお金を稼いでいます。アメリカの市場では人気があり、たくさんの人がこの会社のお金を投資しています。",
+        "keywords": "Intuitive Surgical, da Vinci surgical system, Robotic surgery, Surgical robots, Gary Guthart, Medtronic, Stryker, Johnson & Johnson, Health technology, Medical devices",
+        "explanation": "業界をリードするロボット手術システムの独占的な地位と堅牢な技術は、成長を加速させる主要な強みである。"
+    },
+    {
+        "symbol": "BLK",
+        "name": "ブラックロック",
+        "market": "NYSE",
+        "simple_desc": "『この企業は世界中のたくさんのお金を管理している会社』です。  銀行や個人などのクライアントから預かったお金を使って、株式や債券など様々な資産に投資することで利益を狙います。 多くの富裕層が利用するサービスなので、これからも安定して収益を得ることが期待されています。 ",
+        "keywords": "BlackRock, investment management, assets under management (AUM), index funds, ETF, financial services, Larry Fink, Vanguard Group, Fidelity Investments, State Street Corporation",
+        "explanation": "世界最大の資産運用会社として、圧倒的な規模と幅広い投資戦略を持つことで、高い収益を安定的に確保している。"
+    },
+    {
+        "symbol": "SCHW",
+        "name": "チャールズ・シュワブ",
+        "market": "NYSE",
+        "simple_desc": "この企業は米国で株式などの売買サービスと、お金の管理サービスを提供しています。  手数料が安いのが特徴で、個人投資家にも人気です。オンライン取引も充実しており、忙しい人も使いやすいでしょう。",
+        "keywords": "Charles Schwab, Discount Brokerage, Investment Services, Wealth Management, Financial Services, Brokerage Accounts, Mutual Funds, ETF, Retirement Planning, Bank of America",
+        "explanation": "業界をリードするテクノロジーと幅広いサービスポートフォリオが強み。"
+    },
+    {
+        "symbol": "DE",
+        "name": "ディーア",
+        "market": "NYSE",
+        "simple_desc": "この企業は主にアメリカの都市部に住む人々に、便利で効率的な生活を送るためのサービスを提供しています。たとえば、配達や清掃などの日々のタスクを楽にするアプリやウェブサイトが主なものです。利用者はこれらのサービスを通して時間とお金を節約し、より自由な時間を過ごせるようになります。",
+        "keywords": "On-Demand Services, Local Service Marketplaces, Technology Platform, Urban Consumers, Gig Economy, Delivery Services, House Cleaning Services, Task Management Apps, Competitors: TaskRabbit, Handy, Instacart",
+        "explanation": "DE は、革新的なプラットフォームと広範なサービス提携ネットワークを通じて、都市部の消費者にとって不可欠なオンデマンドサービスを提供する強みを誇っています。"
+    },
+    {
+        "symbol": "ETN",
+        "name": "イートン",
+        "market": "NYSE",
+        "simple_desc": "この企業は、電気を扱う製品やサービスを製造・販売することで利益を得ています。産業用設備から住宅まで幅広く使われているため、世界経済と密接に関係しています。アメリカの市場では、多くの工場やエネルギー会社が使っているのが特徴です。",
+        "keywords": "Eaton Corporation, Electrical equipment, Power management, Industrial automation, Energy solutions, Emerson Electric, ABB Ltd, Schneider Electric, Siemens AG, Rockwell Automation, Aerospace, Construction",
+        "explanation": "世界的な工業基盤を支える幅広い製品ポートフォリオと強固なブランド力で、安定した収益を実現している。"
+    },
+    {
+        "symbol": "UBER",
+        "name": "ウーバー・テクノロジーズ",
+        "market": "NYSE",
+        "simple_desc": "この企業はアメリカのUberという名前で、タクシー配車アプリやフードデリバリーサービスを提供して稼いでいます。 簡単に言うと、スマホ一つでタクシーを呼び付けたり、お店からご飯を食べさせてもらったりできるサービスです。 アメリカではとても人気があり、多くのユーザーとドライバーが利用しています。",
+        "keywords": "Uber, ライドシェアリング, フードデリバリー, 配車アプリ, 交通機関, テクノロジー企業, キャリー・ボーン, Lyft, DoorDash, 配達サービス, アメリカ市場, グローバル展開",
+        "explanation": "世界最大のライドシェアリングプラットフォームであり、圧倒的なネットワーク規模とユーザーベースを持つ。"
+    },
+    {
+        "symbol": "PFE",
+        "name": "ファイザー",
+        "market": "NYSE",
+        "simple_desc": "この企業は病気や怪我を治す薬を作っていて、世界中の人たちに売っています。特にコロナウイルス対策のワクチンで大きな成功をおさめ、多くの人が元気になれるように貢献しています。ニューヨーク証券取引所でPFEという銘柄名で株式が売られています。",
+        "keywords": "Pfizer, Pharmaceutical company, Vaccines, Biopharmaceuticals, mRNA technology, Covid-19 vaccine, Albert Bourla, Johnson & Johnson, Moderna, Novartis, Roche",
+        "explanation": "世界トップクラスの医薬品開発能力と幅広い製品ポートフォリオにより、患者に革新的な治療を提供し続けることができる。"
+    },
+    {
+        "symbol": "SCCO",
+        "name": "サザン・コッパー",
+        "market": "NYSE",
+        "simple_desc": "この企業は医療系大学を運営して稼いでいます。入学希望者や卒業生向けに様々なサービスを提供しています。米国では医療分野の専門家育成が盛んで、将来性のある業界と言えます。",
+        "keywords": "Marshall B. Ketchum University, MBKU,  optometry, physician assistant, pharmacy, healthcare education, university, California, Ketchum Health, Southern California",
+        "explanation": "医療分野における専門性の高い教育機関としての地位と、地域社会への貢献が強み。"
+    },
+    {
+        "symbol": "BKNG",
+        "name": "ブッキング・ホールディングス",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は、宿泊予約サイトやレンタカー予約サイトなどを運営して、旅行会社などに手数料をもらって稼いでいます。アメリカ国内ではよく知られている有名なサービスを提供していて、世界中で多くの利用者を獲得しています。",
+        "keywords": "Booking.com, Priceline, Agoda, Kayak, Expedia, Tripadvisor, Rentalcars.com, Momondo, OpenTable, Glenn Fogel, Online Travel Agency, Travel Technology",
+        "explanation": "世界中の旅行者にとって身近なブランドを多数保有し、プラットフォーム上で旅行関連サービスの予約を一括で行える点が強みである。"
+    },
+    {
+        "symbol": "APP",
+        "name": "アップラビン Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はスマートフォン向けアプリを開発・販売しています。世界中で多くのユーザーにダウンロードされ収益を得ているので、スマホをよく使う人なら知らない人はいないかもしれません。日本のスマホユーザーにも人気があります。",
+        "keywords": "App Store, Google Play, mobile application, software development, technology, consumer goods, gaming, entertainment, Apple, Microsoft",
+        "explanation": "世界最大のアプリストアで、幅広いジャンルのアプリを開発・販売している。"
+    },
+    {
+        "symbol": "UNP",
+        "name": "ユニオン・パシフィック（ＵＰ）",
+        "market": "NYSE",
+        "simple_desc": "『この企業は、アメリカ国内を結ぶ鉄道で貨物を運んでいる会社です。工場や倉庫など色々な施設に荷物を運び、アメリカの経済活動を支えています。近年では環境に配慮した輸送方法も取り入れており、持続可能なビジネスを目指しています。』",
+        "keywords": "Union Pacific Railroad, freight transportation, Class I railroads, North America rail network, BNSF Railway, Canadian National Railway, Norfolk Southern Corporation, logistics, railroad industry, transportation sector",
+        "explanation": "米国で最も大きな貨物鉄道会社として、広範なネットワークと高い輸送効率が強み。"
+    },
+    {
+        "symbol": "QCOM",
+        "name": "クアルコム",
+        "market": "NASDAQ",
+        "simple_desc": "『この企業はスマートフォンやスマホ以外の様々な製品に使われている部品を作って売っている会社です。特に、5G通信などの最新技術にも強いので、世界中で需要が高まっています。』",
+        "keywords": "Qualcomm, Snapdragon, 5G, CDMA, Semiconductor, Mobile Processor, IoT, Artificial Intelligence, Apple, Samsung, Broadcom",
+        "explanation": "モバイル通信技術と半導体チップの開発・製造で世界をリードする企業。"
+    },
+    {
+        "symbol": "WELL",
+        "name": "ウェルタワー",
+        "market": "NYSE",
+        "simple_desc": "この企業はオンライン上のコミュニティ運営で稼いでいます。多くの人がインターネットを使って繋がり、情報交換したり、趣味を共有したりする場所を提供しているのです。",
+        "keywords": "The WELL, online community, virtual community, internet forum, social networking, digital platform, online interaction, discussion board, cybercommunity",
+        "explanation": "The WELLは長年に渡り、オンラインコミュニティの先駆者として確立し、独自の文化と信憑性を持つ独自のコミュニティを築いています。"
+    },
+    {
+        "symbol": "HON",
+        "name": "ハネウェル・インターナショナル",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は、飛行機の部品や医療機器などを世界中で販売することで稼いでいます。航空産業が活発な時期には、業績も大きく伸びることが期待できます。アメリカの市場で人気のある銘柄の一つです。",
+        "keywords": "Honeywell Aerospace, Building Technologies, Performance Materials and Technologies, Emerson Electric, Rockwell Automation, Lockheed Martin, Boeing, General Electric, Raytheon Technologies, Industrial conglomerate",
+        "explanation": "多様な事業を展開する強みと、自動化やIoT技術への積極的な投資により、将来的な成長が期待できる。"
+    },
+    {
+        "symbol": "COP",
+        "name": "コノコフィリップス",
+        "market": "NYSE",
+        "simple_desc": "この企業はエネルギーを扱っています。世界中で石油や天然ガスを見つけたり、精製したりして売っていて、多くの国の電気を供給しています。また、再生可能エネルギーにも取り組んでいます。",
+        "keywords": "ExxonMobil, Chevron, Shell, BP, Oil and Gas, Energy, Renewable Energy, Exploration, Production, Refining, Phillips 66",
+        "explanation": "世界最大の石油会社の一つであり、その巨大な規模と資源基盤が強みである。"
+    },
+    {
+        "symbol": "GLW",
+        "name": "コーニング",
+        "market": "NYSE",
+        "simple_desc": "この企業はガラス製品を作っています。スマホやパソコンに使われている特殊なガラスを主に作っていて、世界中で使われています。",
+        "keywords": "Corning Inc., Gorilla Glass, Optical fiber, Semiconductor materials, Display glass, Telecommunications industry, Apple, Samsung, Qualcomm, Broadcom, Technology sector",
+        "explanation": "独自のガラス技術と広範な産業への適用により、市場で高いシェアを維持している。"
+    },
+    {
+        "symbol": "LOW",
+        "name": "ロウズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は金融市場において、主に米国債券やその他の資産を売買して利益を得ています。",
+        "keywords": "finance, trading, asset management, bonds, fixed income, investment firm, Wall Street, hedge fund, quantitative investing, market making",
+        "explanation": "Lowは、金融市場の複雑なデータを分析して、優良投資機会を見つけることに特化した独自のアルゴリズムを活用しています。"
+    },
+    {
+        "symbol": "PANW",
+        "name": "パロ・アルト・ネットワークス",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は空港を運営して稼いでいます。小さな町の空港なので、飛行機を利用する人がそれほど多くありませんが、地域の生活に欠かせない存在です。",
+        "keywords": "空港, 航空会社, 地域コミュニティ, 地方都市, 公共事業, インフラ, 交通, アメリカ合衆国, アラスカ州, ニュースタイヤホーク",
+        "explanation": "地域の生活に欠かせない唯一の空港として、ニュースタイヤホークの人々のアクセスを支えています。"
+    },
+    {
+        "symbol": "DHR",
+        "name": "ダナハー",
+        "market": "NYSE",
+        "simple_desc": "この企業は医療機器や科学用品などを販売して稼いでいます。世界中でたくさんの企業に使われていて、安定した収益が見込めるのが魅力です。株価も高いですが、成長ポテンシャルは大きいと言われています。",
+        "keywords": "Danaher Corporation, medical devices, diagnostics, scientific instruments, biotechnology, instrumentation, life sciences, healthcare, manufacturing, Fortune 500",
+        "explanation": "幅広い事業分野にわたる強固なポートフォリオと、継続的な買収戦略による成長力。"
+    },
+    {
+        "symbol": "UBS",
+        "name": "ＵＢＳグループ",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中の富裕層に資産運用サービスを提供して稼いでいます。また、企業や政府などにも金融アドバイスをして利益を得ています。米国市場では、投資家が注目している企業です。",
+        "keywords": "UBS Group AG, Investment bank, Financial services, Private banking, Wealth management, Asset management, Goldman Sachs, JPMorgan Chase, Credit Suisse, Banking sector, Switzerland, Zurich, Basel",
+        "explanation": "世界最大の資産管理規模と顧客基盤を持ち、富裕層からの信頼が非常に高い。"
+    },
+    {
+        "symbol": "PLD",
+        "name": "プロロジス",
+        "market": "NYSE",
+        "simple_desc": "この企業は物流倉庫を運営して稼いでいます。世界中で需要が高まっている倉庫スペースを提供することで収益を得ており、日本を含む多くの国で事業を展開しています。",
+        "keywords": "Prologis, warehouse, logistics, real estate investment trust (REIT), e-commerce, Amazon, industrial real estate, Duke Realty, Rexford Industrial Realty, Industrial & Logistics REIT",
+        "explanation": "世界最大の物流倉庫所有者であり、長期間にわたって堅調な成長を遂げている。"
+    },
+    {
+        "symbol": "SNDK",
+        "name": "サンディスク",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はパソコンに使うデータ保存用の小さな部品を作っていて、世界中で人気です。カード型メモリーやUSBメモリなど、色々な形のものを作っています。スマホやゲーム機にも使われているんだって！",
+        "keywords": "SanDisk, flash memory, memory cards, USB flash drives, solid-state drives (SSDs), semiconductor, storage devices, Western Digital, Samsung Electronics, Intel, consumer electronics, technology industry",
+        "explanation": "世界シェアトップクラスのフラッシュメモリ製品製造技術が強み。"
+    },
+    {
+        "symbol": "LMT",
+        "name": "ロッキード・マーチン",
+        "market": "NYSE",
+        "simple_desc": "この企業は航空宇宙産業で飛行機やミサイルを作っています。  アメリカ政府から多くの注文を受けていて、世界的な防衛企業です。米国市場に興味がある日本人が知っておきたい銘柄の一つと言えるでしょう。",
+        "keywords": "Lockheed Martin, Aerospace, Defense, Boeing, Raytheon Technologies, Northrop Grumman, F-35 Lightning II, Javelin, Missiles, Government Contracts, James Taiclet",
+        "explanation": "世界トップクラスの航空宇宙技術と政府との強い関係で、高い収益性と安定した成長を達成しています。"
+    },
+    {
+        "symbol": "SPGI",
+        "name": "Ｓ＆Ｐグローバル",
+        "market": "NYSE",
+        "simple_desc": "『この企業は金融情報や分析を提供しています。株価の評価も行っており、世界中の企業を分析している会社です。』",
+        "keywords": "Standard & Poor's, credit rating, financial data, market intelligence, energy analytics, S&P Dow Jones Indices, Moody's, Fitch Ratings, Bloomberg, Refinitiv",
+        "explanation": "世界で最も信頼性の高いクレジットレーティング機関のひとつであり、幅広い金融市場データと分析を提供することで差別化を図っている。"
+    },
+    {
+        "symbol": "SYK",
+        "name": "ストライカー",
+        "market": "NYSE",
+        "simple_desc": "この企業は病気の治療に使われる薬を作る会社です。体の中で起こる様々な病気の原因となっている遺伝子やタンパク質を研究し、それを標的にした薬を作っています。",
+        "keywords": "バイオテクノロジー, 製薬, 遺伝子, タンパク質, 疾患治療, 免疫療法, 創薬, 臨床試験, ヘルスケア",
+        "explanation": "SYKは、がんや自己免疫疾患など幅広い病気に特化した革新的な医薬品開発で強みを持つ。"
+    },
+    {
+        "symbol": "MRVL",
+        "name": "マーベル・テクノロジー",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は半導体チップを開発して売っています。スマホやパソコンに使われている通信機器にも使われていて、世界中のインターネット環境が安定するのに貢献しています。",
+        "keywords": "Marvell Technology, semiconductors, networking chips, data center, storage, processors, Broadcom, Qualcomm, Intel, Cisco Systems, technology sector",
+        "explanation": "幅広い製品ポートフォリオと独自のテクノロジーにより、通信、データセンター、ストレージなど、様々な分野で強固な地位を築いている。"
+    },
+    {
+        "symbol": "CB",
+        "name": "チャブ",
+        "market": "NYSE",
+        "simple_desc": "この企業は通信技術を提供しています。5Gやクラウドコンピューティングなどの分野で世界的に活躍しています。日本でも多くの携帯電話会社にその技術が使われています。",
+        "keywords": "communications technology, telecommunications, 5G, cloud computing, network infrastructure, software-defined networking, data center, fiber optic cables, wireless communication, Nokia",
+        "explanation": "世界トップクラスの通信技術を持つ、業界における強い競争力と規模が強み。"
+    },
+    {
+        "symbol": "COF",
+        "name": "キャピタル・ワン・ファイナンシャル",
+        "market": "NYSE",
+        "simple_desc": "この企業はクレジットカードやローンなどの金融サービスを提供しています。アメリカではよく知られている銀行です。たくさんの顧客にサービスを提供することで収益を得ています。",
+        "keywords": "Capital One, credit card, loan, banking, finance, American Express, Visa, Mastercard, JPMorgan Chase, Bank of America",
+        "explanation": "幅広い金融商品とサービス、強力なブランド認知度、デジタル重視の戦略が強み。"
+    },
+    {
+        "symbol": "WDC",
+        "name": "ウエスタン・デジタル",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はハードディスクドライブ（HDD）やSSDなどの記憶装置を作っています。個人や企業がパソコンやスマホなどに使っているものですね！米国市場では人気があり、多くの人が使っていて売上も安定しています。",
+        "keywords": "Western Digital, hard disk drive (HDD), solid state drive (SSD), data storage, Seagate, Toshiba, storage solutions, technology, consumer electronics, enterprise solutions",
+        "explanation": "Western Digitalは、世界最大の記憶装置メーカーの一つであり、高品質で信頼性の高い製品により顧客を獲得している。"
+    },
+    {
+        "symbol": "PH",
+        "name": "パーカー・ハネフィン",
+        "market": "NYSE",
+        "simple_desc": "この企業は、生活に欠かせない化学物質を生産して、色々な製品に使われています。世界中でたくさんの人が使っている製品に使われているので安定した収益が見込めます。",
+        "keywords": "パーカー・ハネフィン, pH計, 化学薬品, 水質検査, 分析機器, 医療用品, 農業資材, ライフサイエンス, 製造業, アメリカの企業",
+        "explanation": "世界的に認知度の高いブランドと幅広い製品ポートフォリオで、安定した収益基盤を築いている。"
+    },
+    {
+        "symbol": "NEM",
+        "name": "ニューモント",
+        "market": "NYSE",
+        "simple_desc": "この企業はブロックチェーン技術を使った金融サービスを提供している。世界中の人々が安全に送金したり、デジタル資産を管理できるような仕組みを作るのが主な仕事だ。投資家向けのわかりやすい情報も積極的に発信しているので、興味のある人は一度見てみる価値があるかもしれない。",
+        "keywords": "NEM, XEM, Blockchain, Cryptocurrency, Decentralized Finance (DeFi), Digital Assets, Supply Chain Management,  Payments, Security,  Open Source Software",
+        "explanation": "NEMは、低コストで高速なトランザクションを支える独自のブロックチェーン技術と、幅広い応用可能なエコシステムを持つ。"
+    },
+    {
+        "symbol": "BMY",
+        "name": "ブリストル・マイヤーズスクイブ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、がんや自己免疫疾患などの治療薬を開発して販売しています。 多くの人が愛用する製品があり、アメリカ国内での売上が多いです。  ",
+        "keywords": "ブリストル・マイヤーズスクイブ, BMS, Eliquis, Opdivo, Revlimid, Orencia, Pomalyst, Yervoy, Reblozyl, 製薬会社, バイオテクノロジー, がん治療, 自己免疫疾患, 医薬品開発",
+        "explanation": "がん治療薬のパイオニアであり、特に免疫チェックポイント阻害剤で高いシェアを誇る。"
+    },
+    {
+        "symbol": "VRT",
+        "name": "バーティブ・ホールディングス Ａ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、世界中のデータセンターやサーバーなどに必要なITインフラを提供して稼いでいます。  電気配線システムや冷房設備などを作って売ったり、メンテナンスなども行っています。近年は、クラウドコンピューティングの需要の高まりにより事業が拡大しています。",
+        "keywords": "Vertiv, Critical infrastructure, Data center, Server room, Power distribution unit, Cooling system, IT infrastructure, Emerson Electric, Schneider Electric, ABB",
+        "explanation": "Vertivは、世界トップクラスのデータセンターインフラ提供企業であり、幅広い顧客基盤と技術力を持つ。"
+    },
+    {
+        "symbol": "ACN",
+        "name": "アクセンチュア Ａ",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中の会社に IT やビジネスに関する相談に乗って解決策を提供しています。日本の会社も利用しており、世界中で活躍する大手です。米国市場では注目されているので、日本でも人気があるかもしれません。",
+        "keywords": "Accenture, Management Consulting, Technology Consulting, Deloitte, PwC, EY, IT Services, Business Process Outsourcing, Digital Transformation, Cloud Computing",
+        "explanation": "グローバルな顧客基盤と幅広いサービスポートフォリオを持つ、世界最大のコンサルティング企業である。"
+    },
+    {
+        "symbol": "PGR",
+        "name": "プログレッシブ",
+        "market": "NYSE",
+        "simple_desc": "この企業は自動車保険を売っている会社です。事故にあった時や車の故障時にお金をかけずに済みますように、たくさんの人に加入してもらいたいと思っています。",
+        "keywords": "自動車保険, 損害保険, Auto Insurance, Personal Auto Insurance, Progressive Group, Allstate, Geico, State Farm, Insurance Industry",
+        "explanation": "大手自動車保険会社として、広範な市場シェアと強固なブランド認知度を誇る。"
+    },
+    {
+        "symbol": "STX",
+        "name": "シーゲイト・テクノロジー・ホールディングス",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は韓国の大手海運関連会社です。船を造ったり、海運やエネルギー資源の商売をして稼いでいます。世界でも有名な造船会社を持っていて、たくさんの船を作っています。",
+        "keywords": "STX Corporation, Seagate Technology Holdings, Shipping, Energy, Shipbuilding, Aker Yards, STX Offshore & Shipbuilding, Marine Engineering, Hyundai Heavy Industries, Daewoo Shipbuilding & Marine Engineering, Samsung Heavy Industries",
+        "explanation": "世界トップクラスの造船会社を傘下に持ち、グローバルな事業基盤を有している。"
+    },
+    {
+        "symbol": "ENB",
+        "name": "エンブリッジ",
+        "market": "NYSE",
+        "simple_desc": "この企業はオイルとガスを運んでいる会社です。 パイプラインを使って、石油や天然ガスを遠くまで運びます。  アメリカではカナダからのエネルギー供給に欠かせない存在と言われています。",
+        "keywords": "Enbridge, Pipeline, Oil & Gas, Energy Transportation, Canada, North America, Renewable Energy, Oil Sands, Midstream Operations, Utilities",
+        "explanation": "北米最大のパイプラインネットワークを保有し、安定収入源を持つ。"
+    },
+    {
+        "symbol": "SBUX",
+        "name": "スターバックス",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はコーヒー豆や飲み物を売って稼いでいます。世界中のたくさんの国に店を広げていて、アメリカ市場ではとても人気があります。",
+        "keywords": "スターバックス, コーヒー, カフェ, 飲料, フード, フランチャイズ, グローバル展開, アメリカ, Seattle, Competitor: Dunkin', Competitor: Tim Hortons",
+        "explanation": "世界中で愛されるブランド力と広範な店舗網が、Starbucksの強みである。"
+    },
+    {
+        "symbol": "INTU",
+        "name": "インテュイット",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は会計ソフトや金融管理アプリなどを作り、世界中の個人や中小企業が簡単に家計を管理できるようにしている。",
+        "keywords": "会計ソフト, 金融管理, QuickBooks, TurboTax, クラウドベース, オンラインサービス, Small Business, 米国市場, Xero, FreshBooks",
+        "explanation": "個人と中小企業向けのソフトウェアサービスで高いシェアを持つ。 "
+    },
+    {
+        "symbol": "VRTX",
+        "name": "バーテックス・ファーマシューティカルズ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は病気の治療薬を作っていて、特に喘息や嚢胞性線維症などの難病の患者を助ける薬が有名です。",
+        "keywords": "Vertex Pharmaceuticals, pharmaceuticals, drugs, cystic fibrosis, CF, exacerbation, TRPV1, KRAS, GSK, AbbVie, biotech",
+        "explanation": " Vertexは嚢胞性線維症治療薬で大きなシェアを持つ、世界有数の製薬会社です。"
+    },
+    {
+        "symbol": "SPOT",
+        "name": "スポティファイ・テクノロジ－",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中のユーザーに音楽やポッドキャストを聴けるサービスを提供しています。月額料金を払って好きなだけ曲が聞けたり、最新ミュージックビデオを見ることができたりするんです。アメリカの市場ではたくさんの人が使っていて人気が高いです。",
+        "keywords": "Spotify, music streaming, podcast, Daniel Ek, Apple Music, Amazon Music, YouTube Music, audio streaming, digital media, entertainment",
+        "explanation": "世界最大の音楽ストリーミングプラットフォームとしての圧倒的なユーザー基盤と豊富なコンテンツライブラリが強みです。"
+    },
+    {
+        "symbol": "CRWD",
+        "name": "クラウドストライク・ホールディングス Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はセキュリティソフトを提供して稼いでいます。個人や企業がパソコンやスマホを安全に使うためのソフトを販売していて、世界中で使われています。米国では人気が高く、多くの企業が信頼しています。",
+        "keywords": "CrowdStrike, エンドポイントセキュリティ, サイバーセキュリティ, 脅威インテリジェンス, 攻撃対応, George Kurtz, Microsoft, Palo Alto Networks, Zscaler, SaaS, ソフトウェア",
+        "explanation": "クラウドストライクは、リアルタイムで高度な検知と分析を提供する画期的なエンドポイントセキュリティプラットフォームを通じて市場をリードしています。"
+    },
+    {
+        "symbol": "MDT",
+        "name": "メドトロニック",
+        "market": "NYSE",
+        "simple_desc": "この企業は医療機器を作って売っている会社です。手術中に使うような精密な道具や、病気の診断に役立つ機械など、病院で使われる様々な製品を作っています。世界中の人々の健康を守るために大切な技術を提供しています。",
+        "keywords": "Medtronic, Cardiac devices, Neurosurgical equipment, Diabetes care, Surgical robotics, Johnson & Johnson, Abbott Laboratories, Boston Scientific, Stryker, Healthcare industry",
+        "explanation": "世界トップクラスの医療機器開発と製品供給能力を持つ。"
+    },
+    {
+        "symbol": "EQIX",
+        "name": "エクイニックス",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はインターネット回線とデータセンターを提供して稼いでいます。世界中にたくさんの顧客を持ち、そのサービスを頼りに様々なビジネスが発展しています。アメリカの市場では注目株です。",
+        "keywords": "Equinix, data center, colocation, internet connectivity, REIT, cloud computing, digital infrastructure, telecom, American multinational company, Nasdaq, EQIX, global presence, customer network",
+        "explanation": "Equinixは、世界中に広がるデータセンターネットワークと豊富な顧客ベースにより、インターネット接続の重要なインフラストラクチャを提供し続けることで業界をリードしています。"
+    },
+    {
+        "symbol": "AEM",
+        "name": "アグニコ・イーグル・マインズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は鉱山開発を行っています。主に銅や金などの貴金属を採掘し、世界中の市場に販売することで利益を得ています。日本でも電気自動車や太陽光発電などに使われているため、今後需要が高まっていく可能性があります。",
+        "keywords": "Agnico Eagle Mines, mining, gold, copper, Canada, precious metals, exploration, production, extraction, Glencore, Barrick Gold",
+        "explanation": "アグニコ・イーグル・マインズは、低コストで高収益の鉱山を多数保有しており、貴金属市場における安定した利益を誇ります。"
+    },
+    {
+        "symbol": "BMO",
+        "name": "バンク・オブ・モントリオール",
+        "market": "NYSE",
+        "simple_desc": "この企業はカナダで銀行事業をやっていて、アメリカでも支店があります。個人や企業に預金サービスを提供したり、融資を行ったりして利益を得ています。日本から見ると馴染みがないかもしれませんが、カナダではとても有名な銀行なんです。",
+        "keywords": "Bank of Montreal, BMO Financial Group, Canadian bank, Retail banking, Commercial banking, Wealth management, Investment banking, Toronto-Dominion Bank, Royal Bank of Canada, Scotiabank",
+        "explanation": "カナダで最も古く、規模が大きい銀行の一つであり、安定した収益と地域密着型のサービスで顧客を獲得している。"
+    },
+    {
+        "symbol": "MO",
+        "name": "アルトリア・グループ",
+        "market": "NYSE",
+        "simple_desc": "この企業は主にアメリカで活躍するアパレルブランドを展開して儲かっています。オンライン販売に力を入れており、若い世代に人気です。  ",
+        "keywords": "Altria Group, MO Stock, Philip Morris International, Tobacco Industry, Vapor Products, Juul Labs, E-cigarettes, Consumer Goods, Altria Client Services, Legacy Brands",
+        "explanation": "米国で最も大きなタバコメーカーである Philip Morris International を所有することで安定収入とブランド力を確保している。"
+    },
+    {
+        "symbol": "HCA",
+        "name": "ＨＣＡヘルスケア",
+        "market": "NYSE",
+        "simple_desc": "この企業はアメリカで病院やクリニックをたくさん運営していて、病気の人が治療を受ける際に必要なサービスを提供しています。たくさんの患者さんが利用するので、安定した収益が見込めます。米国市場に興味のある日本人投資家は、この企業の将来性に注目する価値があります。",
+        "keywords": "HCA Healthcare, healthcare, hospital, clinic, patient care, insurance, medical services, tenet healthcare, universal health services, AmeriHealth",
+        "explanation": "幅広いネットワークと強固なブランド力で、患者数の増加と収益の拡大を継続的に達成している。"
+    },
+    {
+        "symbol": "CMCSA",
+        "name": "コムキャスト Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はアメリカのケーブルテレビとインターネットサービスを主に提供しています。また、映画やドラマなどのコンテンツ制作も行っており、NBCなど有名ブランドを持っています。アメリカでは多くの家庭に利用されているため、安定した収益源となっています。",
+        "keywords": "Comcast, Xfinity, NBCUniversal, Telecommunications, Cable TV, Internet Service Provider, Media, Entertainment, AT&T, Verizon, Disney",
+        "explanation": "アメリカ国内で最も広く利用されているケーブルテレビとインターネットサービス事業を展開し、安定した収益基盤を持つ。"
+    },
+    {
+        "symbol": "TT",
+        "name": "トレイン・テクノロジーズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、インターネットを通じた鉄道関連のサービスを提供しています。主に鉄道会社や駅関係者向けに、運行情報やダイヤ改正などをオンライン上で共有し、効率化を支援するビジネスを行っています。",
+        "keywords": "Train Technologies, Railroad Technology, Online Railway Platform, Transportation Management Software, Railway Data Analytics, Digitalization of Railways, Passenger Information Systems, Freight Tracking, Supply Chain Optimization, Competition in Rail Industry",
+        "explanation": "TTは、鉄道業界におけるデジタル化をリードする企業であり、最新のテクノロジーを活用したソリューションを提供することで独自の競争優位性を築いている。"
+    },
+    {
+        "symbol": "MCK",
+        "name": "マケッソン",
+        "market": "NYSE",
+        "simple_desc": "この企業は医療分野で人々の健康を支える会社です。薬や医療機器などを病院や医師に販売し、世界中の人々がお医者さんの診察を受けやすくするためのサービスも提供しています。日本でも有名な会社なので、株式投資に興味がある人はチェックしてみましょう。",
+        "keywords": "McKesson Corporation, pharmaceutical distributor, healthcare, drug distribution, medical supplies, pharmacy benefit manager, AmerisourceBergen, Cardinal Health, healthcare industry, NYSE:MCK, pharmaceuticals, distribution network, logistics",
+        "explanation": "圧倒的な規模と広範なネットワークを持つ世界最大の薬局卸売企業である。"
+    },
+    {
+        "symbol": "SO",
+        "name": "サザン・カンパニー",
+        "market": "NYSE",
+        "simple_desc": "この企業は、アメリカ南部の地域を拠点に、主に食料品や飲料物を販売しています。スーパーマーケットとオンラインストアを通じて、幅広い顧客層にサービスを提供しています。その豊富な商品ラインナップと地域密着型の営業戦略が強みです。",
+        "keywords": "Southern Company, electricity, utilities, energy, Georgia Power, Alabama Power, Mississippi Power, Tennessee Valley Authority, Duke Energy, NextEra Energy",
+        "explanation": "Southern Companyは、アメリカ南部の地域で安定した収益基盤を持つ電力事業に強みを持っている。"
+    },
+    {
+        "symbol": "BN",
+        "name": "ブルックフィールド",
+        "market": "NYSE",
+        "simple_desc": "この企業は、建物や土地を経営して人々に住居を提供している会社です。 世界中に様々な場所に物件を持っていて、家賃収入を得ています。 多くの人が住んでいる場所には、お店や施設も併設させていて、地域経済の活性化にも貢献しています。",
+        "keywords": "Real Estate Investment Trust (REIT), Brookfield Asset Management, Global Real Estate, Infrastructure Investments, Alternative Investments, Private Equity, Public Markets, Commercial Real Estate, Residential Real Estate, Industrial Real Estate",
+        "explanation": "世界中の不動産やインフラ資産に幅広く投資することで、安定的な収益源を確保している。"
+    },
+    {
+        "symbol": "NOW",
+        "name": "サービスナウ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、今の瞬間に注目を集めるような新しいサービスを提供しています。",
+        "keywords": "NOW, ServiceNow, Software as a Service, IT Management, Cloud Computing, Digital Transformation, Customer Service Management, Workforce Automation, Enterprise Software, Salesforce",
+        "explanation": "現在進行形のデジタル変革の中、柔軟性と拡張性に優れたIT管理プラットフォームを提供することで競争優位性を築いています。"
+    },
+    {
+        "symbol": "CME",
+        "name": "ＣＭＥグループ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は世界中の様々な金融商品を扱う市場を作って運営して稼いでいます。 米国では株式や金などの取引で使われているので、経済状況を知る指標にもなっています。  日本の投資家は、アメリカの経済動向を掴むためにも注目してみましょう。 ",
+        "keywords": "Chicago Mercantile Exchange, Derivatives, Futures contracts, Options contracts, Trading volume, Intercontinental Exchange (ICE), Nasdaq, Bloomberg, Financial markets, Risk management",
+        "explanation": "CMEグループは、世界最大のデリバティブ市場を運営することで、金融商品の価格変動リスクヘッジを支援するサービスを提供し、グローバル経済の安定に貢献している。"
+    },
+    {
+        "symbol": "CEG",
+        "name": "コンステレーション・エナジー",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は電気会社です。発電や販売を通して人々の家に電気を届けています。  特に太陽光発電に力を入れていて、環境にも優しいエネルギーを提供しています。",
+        "keywords": "コンステレーション・エナジー, 電気, 電力会社, 再生可能エネルギー, 太陽光発電, Exelon, NextEra Energy, Duke Energy, FirstEnergy, Dominion Energy, エネルギー市場, 環境問題",
+        "explanation": "アメリカの主要電力会社の一つであり、特に持続可能なエネルギー分野での取り組みが強みである。"
+    },
+    {
+        "symbol": "HWM",
+        "name": "ハウメット・エアロスペース",
+        "market": "NYSE",
+        "simple_desc": "この企業はテクノロジー関連の雑誌を発行しています。主にシンガポールで活動しており、最新の技術情報や製品レビューなどを掲載しています。",
+        "keywords": "Hardware Mag, テクノロジー雑誌, シンガポールメディア, 出版業界, デジタルコンテンツ",
+        "explanation": "地域密着型の有力メディアとしての地位と、最新の技術トレンドに精通している編集陣が強みである。"
+    },
+    {
+        "symbol": "CM",
+        "name": "カナディアン・インペリアル・バンク・オブ・コマース",
+        "market": "NYSE",
+        "simple_desc": "この企業はカナダ最大の銀行のひとつです。個人や事業者向けに様々な金融サービスを提供しています。米国でもビジネスを行っていて、多くのアメリカ人顧客もいます。",
+        "keywords": "Canadian Imperial Bank of Commerce, CM, Royal Bank of Canada, Toronto-Dominion Bank, Bank of Nova Scotia, Financial Services, Banking, Canada, United States, Investment Banking",
+        "explanation": "カナディアン・インペリアル・バンク・オブ・コマースは、幅広い金融サービスと大規模な顧客ベースによって強固な地位を築いている。"
+    },
+    {
+        "symbol": "FCX",
+        "name": "フリーポート・マクモラン",
+        "market": "NYSE",
+        "simple_desc": "この企業は銅や金などの金属を採掘して稼いでいます。世界中で探査と採掘を行っていて、需要が高まっている金属がたくさんあるため、将来も安定した収益が見込めます。米国市場で取引されているので、日本の投資家にとっても身近です。",
+        "keywords": "フリーポート・マクモラン, 銅, 金, 鉱業, 採掘, アルミニウム, 石油ガス, グローバル企業, 資源, デフレヘッジ, ESG, 持続可能な投資",
+        "explanation": "世界有数の銅と金の埋蔵量を保有し、多様な地域での事業展開で安定供給能力に優れている。"
+    },
+    {
+        "symbol": "ADBE",
+        "name": "アドビ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は、写真や動画編集、デザインソフトなどクリエイター向けのソフトウェアを開発して売っている会社です。多くの人が世界中で使っていて、信頼性の高いブランドとして人気があります。近年ではデジタル広告関連にも事業を広げています。",
+        "keywords": "Adobe Creative Cloud, Photoshop, Illustrator, Acrobat, PDF, Customer Experience Management (CXM), デジタルマーケティング, ソフトウェア企業, Microsoft, Autodesk, Apple",
+        "explanation": "世界中で使われている強力なブランドと広範な製品ラインナップが強みである。"
+    },
+    {
+        "symbol": "MAR",
+        "name": "マリオット・インターナショナル Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はホテルを作って稼いでいます。世界中にたくさんのホテルを持っており、旅行する人が泊まりたいと思うブランドに育ててきました。日本でもたくさん利用できる人気のある企業です。 ",
+        "keywords": "Marriott, hotel, hospitality, travel, Airbnb, Hilton, IHG, Wyndham, luxury hotels, brand recognition",
+        "explanation": "世界トップクラスのホテルブランドと幅広い客室カテゴリーが強み。"
+    },
+    {
+        "symbol": "DUK",
+        "name": "デューク・エナジー",
+        "market": "NYSE",
+        "simple_desc": "この企業は電力会社です。アメリカの多くの地域に電気を供給していて、再生可能エネルギーにも力を入れているので環境問題に関心のある人にとっても魅力的です。",
+        "keywords": "Duke Energy, Electric Utility, Power Generation, Renewable Energy, Natural Gas, Coal, North Carolina, Florida, South Carolina, Ohio, FirstEnergy, Southern Company",
+        "explanation": "エネルギー供給網を広く保有し、再生可能エネルギーへの投資で今後の成長が見込める。"
+    },
+    {
+        "symbol": "CVS",
+        "name": "ＣＶＳヘルス",
+        "market": "NYSE",
+        "simple_desc": "『この企業は薬局や保険会社を運営して稼いでいます。アメリカの大きな都市にも店舗があり、多くの人々にサービスを提供しています。』",
+        "keywords": "CVS Pharmacy, Aetna, Pharmacy Benefits Manager, Healthcare, UnitedHealth Group, Retail Pharmacy, Health Insurance, Consumer Value Stores, Stanley Goldstein, Sidney Goldstein",
+        "explanation": "薬局、保険会社、調剤管理などの事業を幅広く展開し、アメリカの医療市場で圧倒的な存在感を放っている。"
+    },
+    {
+        "symbol": "BX",
+        "name": "ブラックストーン",
+        "market": "NYSE",
+        "simple_desc": "この企業は、お金を運用して利益を生み出す会社です。  世界の富裕層や機関投資家から預かったお金を使って、株式や不動産など様々な資産に投資しています。 そのことで大きな利益を得ていて、株主にも分配金が還元されます。",
+        "keywords": "Blackstone Group, private equity, real estate investment, Stephen Schwarzman, KKR, Carlyle Group, Apollo Global Management, asset management, Alternative investments, global markets",
+        "explanation": "世界最大の資産運用会社であり、独自の投資戦略と幅広いポートフォリオにより高い収益性を達成しています。"
+    },
+    {
+        "symbol": "MELI",
+        "name": "メルカードリブレ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はオンラインでのショッピングを扱うプラットフォームを提供しています。世界中で幅広く利用されており、多くの企業が製品やサービスを販売するためにこのプラットフォームを利用しています。その為、広告収入を得ています。",
+        "keywords": "Mercado Libre, e-commerce, online marketplace, Latin America, payment processing, logistics, Amazon, eBay, Walmart, Shopify, ecommerce platform",
+        "explanation": "市場シェアの高さ、そしてラテンアメリカでの圧倒的な存在感が最大の強み。"
+    },
+    {
+        "symbol": "BNS",
+        "name": "バンク・オブ・ノバ・スコシア",
+        "market": "NYSE",
+        "simple_desc": "この企業は金融サービスを提供しています。預金やローン、クレジットカードなどのサービスを通して、お金を扱うお手伝いをします。世界中にある支店を通じて、人々や企業を支えています。",
+        "keywords": "金融機関, 銀行, Scotiabank, カナダ銀行, 投資, ローン, 預金, クレジットカード, 世界展開, 財務サービス",
+        "explanation": "国際的なネットワークと堅牢な金融基盤を持ち、安定した収益基盤を築いている。"
+    },
+    {
+        "symbol": "FDX",
+        "name": "フェデックス",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中で宅配便を届けることで稼いでいます。航空輸送や陸地輸送など様々な方法を使っているんです。大きなライバルはUPSという会社です。",
+        "keywords": "FedEx, 宅配便, 物流, eコマース, 運輸, Memphis International Airport, UPS, アメリカ企業, Fortune 500, Amazon",
+        "explanation": "世界的なネットワークと独自の配送システムが強みであり、迅速かつ信頼性の高いサービスを提供することで顧客を獲得している。"
+    },
+    {
+        "symbol": "NOC",
+        "name": "ノースロップ・グラマン",
+        "market": "NYSE",
+        "simple_desc": "この企業は航空宇宙業界で活躍しており、戦闘機や無人機などの開発・製造をしています。米国の防衛省から多くの受注を得ており、安定した収益基盤を持っています。近年では、民間機の部品製造など事業を多角化させています。",
+        "keywords": "Northrop Grumman, Defense Industry, Aerospace, Military Aircraft, Unmanned Aerial Vehicles (UAV), Boeing, Lockheed Martin, Raytheon Technologies, F-35 Lightning II, Global Hawk",
+        "explanation": "世界トップクラスの技術力と防衛関連の高い受注基盤を持つことで、安定した業績を誇る。"
+    },
+    {
+        "symbol": "BK",
+        "name": "バンク・オブ・ニューヨーク・メロン",
+        "market": "NYSE",
+        "simple_desc": "この企業は金融商品やサービスを提供しています。預金、ローン、クレジットカードなどを扱っていて、アメリカだけでなく世界中のたくさんの顧客を相手に業務を行っています。",
+        "keywords": "Bank of New York Mellon, BNY Mellon, Financial Services, Asset Management, Custody Services, Investment Banking, JP Morgan Chase, Wells Fargo, Goldman Sachs, Citigroup",
+        "explanation": "グローバルな規模と歴史的な強みが、幅広い金融サービスを顧客に提供する基盤となっている。"
+    },
+    {
+        "symbol": "KKR",
+        "name": "ＫＫＲ",
+        "market": "NYSE",
+        "simple_desc": "『この企業は世界中の企業を買収したり、売ったりして利益を得ているよ。例えば、小さな会社をまとめたり、大きな会社の事業の一部を買って経営を変えて、より価値のある状態にして売るんだ。投資家は、その過程で得られる利益に参加できるんだよ。』",
+        "keywords": "KKR & Co., private equity, investment firm, buyout, M&A, leveraged buyout, portfolio companies, Wall Street, Henry Kravis, George Roberts",
+        "explanation": "KKRは、事業の買収・売却による価値創造とポートフォリオ企業の成長に優れた実績を持つ。"
+    },
+    {
+        "symbol": "PNC",
+        "name": "ＰＮＣファイナンシャル・サービシズ・グループ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、アメリカの銀行や金融サービスを提供しています。預金やローン、クレジットカードなど、お金に関わるいろいろなサービスを扱っています。個人から企業まで、幅広い顧客にサービスを提供しているため、安定して利益を得ています。",
+        "keywords": "Financial services, Banking, Investments, Insurance, JPMorgan Chase, Bank of America, Wells Fargo, Citigroup, Asset management, Capital markets",
+        "explanation": "PNCは多角的な金融サービスを提供し、幅広い顧客層にアプローチしていることが強みです。"
+    },
+    {
+        "symbol": "ICE",
+        "name": "インターコンチネンタル取引所（ＩＣＥ）",
+        "market": "NYSE",
+        "simple_desc": "この企業はアメリカ国内で移民と安全保障に関する法律を執行する政府機関です。外国人の違法入国や犯罪捜査などを担当し、アメリカ社会を守る重要な役割を担っています。",
+        "keywords": "Immigration Enforcement, Homeland Security, HSI, ERO, US Government, Border Control, CBP, DHS, Law Enforcement, National Security",
+        "explanation": "移民と安全保障の両面でアメリカ政府にとって重要な役割を担っているため、政治状況や政策に影響を受けやすい。"
+    },
+    {
+        "symbol": "BSX",
+        "name": "ボストン・サイエンティフィック",
+        "market": "NYSE",
+        "simple_desc": "この企業は医療機器を作っています。病院などで使われるペースメーカーやカテーテルなどが主な製品です。世界中で多くの患者さんの役に立っています。",
+        "keywords": "医療機器, カテーテル, ペースメーカー, 心臓病治療, 手術用具, Medtronic, Abbott Laboratories, Johnson & Johnson, バイオテクノロジー, Fortune 500",
+        "explanation": "世界的なシェアと高い技術力で、医療現場に欠かせない製品を提供する強みを持つ。"
+    },
+    {
+        "symbol": "PWR",
+        "name": "クアンタ・サービシズ",
+        "market": "NYSE",
+        "simple_desc": "『この企業は、世界中の企業が安全にシステムやデータを管理できるようにするサービスを提供しています。』コンピューターシステムを安定して運用させたり、セキュリティを強化したりすることで、多くの会社から頼りにされています。アメリカでは特に多くの人に利用されている会社です。",
+        "keywords": "Quanta Services, PWR, Utilities, infrastructure, construction, power lines, telecommunications, energy, electrical engineering, network infrastructure",
+        "explanation": "幅広いインフラセクターにおける事業ポートフォリオと、経験豊富な専門家チームがQuanta Servicesの強みである。"
+    },
+    {
+        "symbol": "WM",
+        "name": "ウエイスト・マネジメント",
+        "market": "NYSE",
+        "simple_desc": "『この企業はゴミや廃棄物を処理して儲かっています』。アメリカで事業を展開しており、環境問題に関心のある人から支持されています。 ",
+        "keywords": "Waste Management, Republic Services, Environmental Services, Recycling, Disposal, Trash Collection, ESG Investing, Larry O'Donnell, Publicly Traded Companies, Infrastructure",
+        "explanation": "WMは、世界最大の廃棄物処理企業であり、広範なサービスと規模で競争優位性を持つ。"
+    },
+    {
+        "symbol": "CNQ",
+        "name": "カナディアン・ナチュラル・リソーシズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、カナダの新興企業のための株式市場を運営して利益を得ています。新規上場企業が利用しやすい環境を作り、成長する企業を紹介することで多くの投資家を惹きつけています。",
+        "keywords": "Canadian Securities Exchange, CSE, CNSX Inc., Ontario Securities Commission, stock exchange, venture capital, emerging companies, small cap market, trading platform, liquidity",
+        "explanation": "カナダで最も成長著しい株式市場の運営により、新規上場企業や投資家を結びつける役割を担っている。"
+    },
+    {
+        "symbol": "GD",
+        "name": "ゼネラル・ダイナミックス",
+        "market": "NYSE",
+        "simple_desc": "この企業は航空宇宙産業や防衛関連事業で利益を上げています。主に軍用機や宇宙探査船などを製造しており、世界的に有名なブランドです。アメリカの市場では人気のある銘柄となっています。",
+        "keywords": "Aerospace, Defense contractor, Boeing, Lockheed Martin, NASA, F-35 Lightning II, Gulfstream Aerospace, General Dynamics Corporation, Warren Buffett, Military technology",
+        "explanation": "幅広い事業分野での強みと、高い技術力を持つ自社ブランドが、長期的な成長を支えています。"
+    },
+    {
+        "symbol": "USB",
+        "name": "ＵＳバンコープ",
+        "market": "NYSE",
+        "simple_desc": "『この企業はDNA研究に使われるキットや材料を販売して稼いでいます。アメリカのバイオテクノロジー市場では有名な会社でした。』",
+        "keywords": "USB Corporation, molecular biology, biochemical products, DNA amplification, PCR, Affymetrix, life science, drug discovery, molecular diagnostics, United States Biochemical",
+        "explanation": "遺伝子研究に使われる製品で実績のあるブランド力と、歴史を誇る技術を持っている。"
+    },
+    {
+        "symbol": "SNPS",
+        "name": "シノプシス",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は、コンピューターチップを作るためのソフトウエアを作っていて、世界中の人が使っています。  たくさんの会社がコンピューターやスマホを作る時に、この企業のソフトウエアを使っているから、いつも仕事があります。 この企業が作るソフトウエアはすごく高性能で、新しい技術を開発するのに役立つので、これからも需要が高まるでしょう。",
+        "keywords": "Synopsys, Electronic Design Automation (EDA), Semiconductor Industry, Silicon Chips, Software Development Tools, Verification Software, Intellectual Property (IP), Cadence Design Systems, Autodesk, Arm Holdings, Tsmc",
+        "explanation": "Synopsysは、半導体設計のあらゆる段階で業界標準となる高度なツールとサービスを提供することで市場をリードしています。"
+    },
+    {
+        "symbol": "CMI",
+        "name": "カミンズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、建物の暖房・空調や発電などに使う産業向け機器を販売して稼いでいます。主にアメリカの工場や施設に設備を提供しており、近年はエネルギー効率の高い製品開発にも力を入れています。",
+        "keywords": "Cummins Inc., diesel engine, power generation, industrial equipment, heavy-duty trucks, generator set, filtration systems, aftermarket parts, engine components, Caterpillar",
+        "explanation": "高い技術力と幅広い製品ラインアップで、世界の産業機器市場において圧倒的なシェアを誇る。"
+    },
+    {
+        "symbol": "CDNS",
+        "name": "ケイデンス・デザイン・システムズ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は電子部品を設計するためのソフトウエアやハードウエアを作って売っています。世界中で使われている、スマホやパソコンのパーツを作る会社に使ってもらっているのもあって人気です。",
+        "keywords": "Cadence Design Systems, EDA software, electronic design automation, Semiconductor industry, SoC design, printed circuit board design, IP licensing, Synopsys, Siemens EDA, Ansys, ARM Holdings, Texas Instruments",
+        "explanation": "世界で最も広く使われている電子部品設計ソフトウェアを提供することで、半導体産業における圧倒的なシェアを獲得している。"
+    },
+    {
+        "symbol": "WMB",
+        "name": "ウィリアムズ",
+        "market": "NYSE",
+        "simple_desc": "『この企業はアメリカ国内で不動産を買って、その家賃収入を得て稼いでいます。主に商業施設やオフィスビルなどを所有しており、安定した収益が見込めるのが特徴です。』",
+        "keywords": "Real Estate Investment Trust, REIT, Commercial Real Estate, Office Buildings, Retail Properties, Williams Companies, Equinix, Prologis, Public Storage, Simon Property Group, Real Estate",
+        "explanation": "安定した配当収入と高い資産価値が特徴で、不動産市場における堅調な需要に強みを持つ。"
+    },
+    {
+        "symbol": "JCI",
+        "name": "ジョンソン・コントロールズ・インターナショナル",
+        "market": "NYSE",
+        "simple_desc": "『この企業は自動車やビルに使われる冷暖房システムを作っていて、世界中の人々に快適な環境を提供しているんだ。電池も作っているので電気自動車にも貢献してるよ。』",
+        "keywords": "Johnson Controls, Automotive Systems, Climate Control, Batteries, HVAC, Building Automation, Industrial Solutions, Auto Parts, Energy Efficiency, Competitors: Honeywell, UTC",
+        "explanation": "幅広い分野に渡る事業基盤と技術力で、世界をリードするサステナビリティソリューションを提供している。"
+    },
+    {
+        "symbol": "SHW",
+        "name": "シャーウィン・ウィリアムズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は塗料や保護材などを売っている会社です。  家やお店をきれいにするために必要な色や仕上げを提供しています。 アメリカではとても有名なブランドなので、多くの人が安心して商品を使っています。",
+        "keywords": "Sherwin-Williams, paint, coating, home improvement, industrial coatings, automotive paints, Benjamin Moore, PPG Industries, Valspar, consumer goods, chemical industry",
+        "explanation": "幅広い製品ポートフォリオ、強固なブランド認知度、そして世界規模での事業展開が最大の強みである。"
+    },
+    {
+        "symbol": "AMT",
+        "name": "アメリカン・タワー（リート）",
+        "market": "NYSE",
+        "simple_desc": "『この企業は縮小模型車両を販売して利益を得ている。』  主にアメリカの消費者に向けて自動車や宇宙船などのモデルキットを売っています。 30年以上前から絶大な人気があり、コレクターから今も支持されています。",
+        "keywords": "AMT, スケールモデル, プラスチックモデル, 模型車両, トレーラー, 映画車, TV車, ミニチュア, Ertl, Round 2, Lesney, 模型製作",
+        "explanation": "長年築き上げられたブランド認知度と人気のある製品ラインアップが強みである。"
+    },
+    {
+        "symbol": "MRSH",
+        "name": "マーシュ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、世界的に活躍する金融機関向けのソフトウェアを提供して稼いでいます。複雑な金融取引をスムーズに進めるためのツールやサービスが人気です。米国の市場では高収益が見込まれています。",
+        "keywords": "マーシュ・アンド・マッキャン, システム開発, 金融テクノロジー, トレーディングプラットフォーム, データ分析, 投資銀行, ヘッジファンド, アクチュアリー, リスク管理, 資産運用",
+        "explanation": "世界トップクラスの金融機関に選ばれる、マーシュのソフトウェアは市場シェアと収益性を高める強みを持つ。"
+    },
+    {
+        "symbol": "EMR",
+        "name": "エマソン・エレクトリック",
+        "market": "NYSE",
+        "simple_desc": "この企業は医療用機器や工業用機器を製造して世界中で売っている会社です。 いろいろな病院で使われている医療機器や工場で使われているロボットなども作っています。 日本ではあまり知られていないかもしれませんが、アメリカではかなり有名な会社なんです。",
+        "keywords": "Emerson Electric, Medical Devices, Industrial Automation, Process Control, Home Comfort, Flow Control, Sensors, Networking Solutions, General Electric, Siemens",
+        "explanation": "幅広い分野で事業を展開する多角的な企業であり、高品質な製品とグローバルな存在感を持つ点が強み。"
+    },
+    {
+        "symbol": "MCO",
+        "name": "ムーディーズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は暗号資産を活用した金融サービスを提供しています。ブロックチェーン技術を用いて安全な送金や取引プラットフォームを構築し、世界中の人々が効率的かつ低コストで金融サービスを利用できるように支援しています。",
+        "keywords": "Moody's Corporation, cryptocurrency, decentralized finance, blockchain technology, digital assets, stablecoin, MCO Visa card, Crypto.com, Ethereum, Bitcoin",
+        "explanation": "独自のエコシステムとモバイルアプリを通じて、暗号資産を利用した金融サービスの利便性とユーザーエクスペリエンスを向上させている。"
+    },
+    {
+        "symbol": "ADP",
+        "name": "オートマチック・データ・プロセッシング（ＡＤＰ）",
+        "market": "NASDAQ",
+        "simple_desc": "『この企業は会社の人事や給与計算などをやってくれるシステムを提供しているんだ』。アメリカでたくさんのお客さんを抱えていて、世界中にもサービスを広げているよ。日本の企業も利用できるみたいだから注目だね！",
+        "keywords": "ADP, Automatic Data Processing, Human Resources Management (HRM), Payroll processing, Professional Employer Organization (PEO), Cloud computing, Workforce management, Globalization, Paychex, Ceridian, Insperity",
+        "explanation": "企業規模の大小を問わず、あらゆるビジネスに必要不可欠な人材管理・給与処理サービスを提供する圧倒的な規模と基盤が強み。"
+    },
+    {
+        "symbol": "CSX",
+        "name": "ＣＳＸ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はアメリカの鉄道会社です。貨物列車を走らせてお金を稼いでいます。アメリカで大きな物流網を持っているのが強みです。",
+        "keywords": "CSX Corporation, rail transportation, logistics, freight rail, North America, Union Pacific, Norfolk Southern, transportation industry, Fortune 500, Jacksonville, Florida",
+        "explanation": "アメリカ最大の鉄道網を保有しており、物流インフラにおける安定した収益基盤が強みです。"
+    },
+    {
+        "symbol": "BAM",
+        "name": "ブルックフィールド・アセット・マネジメント",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界の様々な場所に建物を買ったり売ったりして、その建物から得られるお金で儲かっています。",
+        "keywords": "Brookfield Asset Management, Real Estate Investment Trusts, REITs, Infrastructure Investments, Global Real Estate, Alternative Investments, Private Equity, Warren Buffett, Blackstone Group, KKR",
+        "explanation": "長期的な資産運用と分散投資戦略で、安定した収益性を誇る。"
+    },
+    {
+        "symbol": "EPD",
+        "name": "エンタープライズ・プロダクツ・パートナーズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は主にソフトウェア開発関連サービスを提供しています。米国のIT企業向けに顧客管理システムや業務効率化ツールなどを提供し、成長を続けています。",
+        "keywords": "Enterprise Products Partners, software development, IT services, customer relationship management (CRM), business process automation, United States market, technology sector, competitors",
+        "explanation": "顧客のビジネスプロセスを最適化するためのソフトウェアソリューションを提供することで、競争優位性を築いている。"
+    },
+    {
+        "symbol": "UPS",
+        "name": "ユナイテッド・パーセル・サービス（ＵＰＳ） Ｂ",
+        "market": "NYSE",
+        "simple_desc": "この企業は荷物を運び、世界中のお店や人々に届けて稼いでいます。アメリカだけでなく、世界中で活躍しており、大きな荷物を運ぶのが得意です。 ",
+        "keywords": "United Parcel Service, UPS, FedEx, DHL, Logistics, Package Delivery, Courier Services, Supply Chain, E-commerce, Global Shipping",
+        "explanation": "世界最大の物流ネットワークと、幅広いサービスを有し、信頼性が高いことが強み。"
+    },
+    {
+        "symbol": "MMM",
+        "name": "スリーエム（３Ｍ）",
+        "market": "NYSE",
+        "simple_desc": "「この企業は紙ヤスリや接着剤、フィルターなど、様々な製品を作っています。 多くの製品が世界中で使われていて、信頼度も高いのが特徴です。」",
+        "keywords": "3M, Scotch tape, Post-it notes, Adhesives, Abrasives, Filters, Medical supplies, Industrial materials, Innovation, Diversified",
+        "explanation": "幅広い製品ポートフォリオと継続的なイノベーションにより、様々な市場で高いシェアを誇る。"
+    },
+    {
+        "symbol": "CRH",
+        "name": "ＣＲＨ",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中で建物を建てるのに必要な材料を販売しています。住宅からインフラまで幅広い用途に利用されています。安定した需要とグローバルな事業展開が魅力です。",
+        "keywords": "CRH plc, building materials, construction, cement, aggregates, ready-mix concrete, LafargeHolcim, HeidelbergCement, Saint-Gobain, infrastructure, global market, Ireland",
+        "explanation": "世界トップクラスのシェアと幅広い製品ポートフォリオを持つ、建設資材業界のリーダーである。"
+    },
+    {
+        "symbol": "ITW",
+        "name": "イリノイ・ツール・ワークス",
+        "market": "NYSE",
+        "simple_desc": "『この企業は様々な種類の工具を製造・販売していて、建設業界や自動車工場などで使われるものから家庭用の道具まで幅広く提供しています。世界中で事業を行っていて、安定した収益が見込める企業です。』",
+        "keywords": "Illinois Tool Works, ITW, Tools, Hardware, Industrial Equipment, Fasteners, Construction Tools, Automotive Tools, Consumer Products, Stanley Black & Decker, Snap-on, Bosch",
+        "explanation": "多様な事業ポートフォリオと世界的なリーチにより、安定した収益基盤を築いている。"
+    },
+    {
+        "symbol": "HLT",
+        "name": "ヒルトン・ワールドワイド・ホールディングス",
+        "market": "NYSE",
+        "simple_desc": "『この企業は世界中でホテルやリゾーツを運営して稼いでいます。旅行者が宿泊する場所を提供したり、レストランやイベントスペースを運営したりしています。アメリカでは人気が高い会社なので、多くの人に利用されています。』",
+        "keywords": "Hilton Hotels, Marriott International, Airbnb, Wyndham Hotels, Expedia Group, Travel and Leisure Industry, Hospitality Sector, Luxury Accommodation, Business Travel, Hotel Management",
+        "explanation": "グローバルなブランド認知度と幅広いホテルカテゴリーが強みであり、世界中の旅行者に安心感と高級感を提供しています。"
+    },
+    {
+        "symbol": "SLB",
+        "name": "ＳＬＢ",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界の海上で石油を採掘する巨大な会社です。様々な技術や機械を使って、油田を探し出して、石油を取り出す仕事をしています。世界ではトップクラスの売上規模を持っていて、日本でも多くの人が投資している有名な企業です。",
+        "keywords": "Schlumberger, SLB Limited, Oilfield services, Drilling, Offshore drilling, Energy sector, Halliburton, Baker Hughes, Chevron, ExxonMobil, Oil production",
+        "explanation": "世界トップクラスの技術力とグローバルなネットワークで、石油採掘サービス分野における圧倒的なシェアを誇る。"
+    },
+    {
+        "symbol": "REGN",
+        "name": "リジェネロン・ファーマシューティカルズ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は病気の治療薬を作っています。特に目を治す薬や免疫力を高める薬が得意で、世界中の人に買われています。",
+        "keywords": "Regeneron Pharmaceuticals, REGN, VEGF-trap, Eylea, Dupixent, antibody drugs, biotechnology, pharmaceutical industry, immunotherapy, ophthalmology, Leonard Schleifer",
+        "explanation": "革新的な抗体医薬の開発と製造で、世界トップクラスのバイオテクノロジー企業としての地位を築いている。"
+    },
+    {
+        "symbol": "ECL",
+        "name": "エコラボ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、インターネット技術を使って病院と患者をつなぐサービスを提供しています。アメリカの医療現場では、患者が自分の記録をいつでも確認できたり、医師とオンライン診療を行ったりできるようになっています。",
+        "keywords": "eCollaboration, healthcare technology, telemedicine, patient portal, electronic health records, HIPAA compliance, digital healthcare, medical software, United States healthcare market, health IT",
+        "explanation": "ECL provides a unique platform connecting patients and healthcare providers through innovative technology, streamlining communication and improving access to care."
+    },
+    {
+        "symbol": "DASH",
+        "name": "ドアダッシュ Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は、アメリカの市場で活躍するテクノロジー関連会社です。インターネットやデジタルコンテンツを通じて、人々がより快適に情報を共有したり、サービスを利用できるような技術を開発しています。投資家は、将来的な成長性や世界規模での需要を見極める必要があります。",
+        "keywords": "technology, internet, digital content, software development, e-commerce, cloud computing, data analytics, artificial intelligence, cybersecurity, SaaS",
+        "explanation": "この企業は、革新的な技術と幅広いサービスポートフォリオによって市場をリードしています。"
+    },
+    {
+        "symbol": "ORLY",
+        "name": "オライリー・オートモティブ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は自動車部品を主に販売している会社です。世界中で車が売られているので需要は高く、安定した収益が見込めます。米国市場での事業が中心で、日本からの投資家にとっても注目度の高い企業です。",
+        "keywords": "オートモーティブ, 自動車部品, サプライチェーン, 自動車製造, 競合企業, ウォールマート, アメリカーン・エクスプレッス, オートゾーン, ナショナルサイクルズ, ベストバイヤー",
+        "explanation": "オライリー・オートモティブは、米国で最も広く利用されている自動車用品販売店チェーンであり、独自の店舗ネットワークとブランド力を持つ。"
+    },
+    {
+        "symbol": "RCL",
+        "name": "ロイヤル・カリビアン・グループ",
+        "market": "NYSE",
+        "simple_desc": "『この企業はクルーズ船を運航して世界中の人々に旅行を楽しませています。たくさんの豪華な施設やアクティビティーが用意されていて、特別な思い出を作ることができます。』",
+        "keywords": "クルーズ船, ロイヤルカリビアン, カーニバル, ノルウェー・クルーザーライン, 旅行業界, レジャー産業, エンターテイメント, 観光, 海運, アメリカ企業",
+        "explanation": "世界トップクラスのクルーズ船を保有し、高度な顧客満足度と多様な航路で強固なブランド力を築いている。"
+    },
+    {
+        "symbol": "MNST",
+        "name": "モンスター・ビバレッジ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はエネルギー飲料を販売して稼いでいます。特に『モンスター・エナジー』というブランドは世界中で大人気です。米国ではレッドブルに次ぐ売上高を誇ります。",
+        "keywords": "Monster Energy, Relentless, Reign, Burn, Hansen's, energy drink, beverage industry, Red Bull, non-alcoholic beverage, carbonated drink, investment, stock market",
+        "explanation": "世界シェアの大きなエネルギー飲料ブランドを持つことで、Monster Beverageは高い競争力を誇ります。"
+    },
+    {
+        "symbol": "NSC",
+        "name": "ノーフォーク・サザン",
+        "market": "NYSE",
+        "simple_desc": "「この企業は鉄道を経営して、貨物や旅客輸送を行っているんだ。アメリカ南東部を中心に事業が展開されてて、農産物を運んだり観光客も乗せているよ。」",
+        "keywords": "Norfolk Southern Corporation, Railroad, Freight Transport, Passenger Transport, North America, Transportation Sector, CSX Corporation, Union Pacific Corporation, BNSF Railway, Canadian National Railway",
+        "explanation": "広範な鉄道ネットワークと効率的な運行システムを持つことで、アメリカ南東部の貨物輸送をリードしている。"
+    },
+    {
+        "symbol": "MSI",
+        "name": "モトローラ・ソリューションズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は携帯電話やコンピューターに使われる部品を販売しています。特に通信回線機器が人気で、世界中の通信会社から頼まれています。米国市場では、高い技術力と幅広い製品ラインナップで強さを発揮しています。",
+        "keywords": "Motorola Solutions, Public Safety, Mission-critical Communications, 5G, Radio Frequency, Network Infrastructure, Enterprise Mobility, Government Contracts, Ericsson, Nokia",
+        "explanation": "堅牢なネットワークシステム、高度な通信技術、公共安全分野での実績が強み。"
+    },
+    {
+        "symbol": "CI",
+        "name": "シグナ・グループ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、世界中の企業に人材を送り込みます。特にアジア地域での事業が強く、グローバルな活躍が目覚ましいです。日本でも多くの人材を海外へ派遣しており、日本の国際化にも貢献しています。",
+        "keywords": "Staffing, Human Resources, Global Recruitment, Japan, Asia, Talent Acquisition, Executive Search, Headhunting, HR Solutions, Ryoko Hagiwara",
+        "explanation": "世界トップレベルのグローバルな人材紹介ネットワークと深い業界知識を持つことで、企業に最適な人を迅速かつ的確に提供できる強みを持つ。"
+    },
+    {
+        "symbol": "APO",
+        "name": "アポロ・グローバル・マネジメント",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中の株を集めてマネジメント（運用）する会社です。アメリカ市場では特に多くの人の信頼を得ていて、その運用成績が良いことで有名です。日本でも多くの人が『○○』という名前で知っています。",
+        "keywords": "グローバル・マネジメント, 投資信託, アクティブファンド, アセットマネジメント, 株式市場, ETF, ヘッジファンド, 資産運用, 金融サービス, 世界経済",
+        "explanation": "『○○』は、長年の経験と実績を持つ優秀な投資家チームを持ち、多様な投資戦略で高いリターンを目指している。"
+    },
+    {
+        "symbol": "ROST",
+        "name": "ロス・ストアーズ",
+        "market": "NASDAQ",
+        "simple_desc": "『この企業はアウトレットのようなお店をアメリカ中にたくさん持ってて、お安く服や日用品を売ってます。アメリカのどこにいても、このお店の名前を知っている人が多いんだって！',",
+        "keywords": "Ross Dress for Less, discount department stores, off-price retailer, DD's Discounts, consumer goods, retail, TJ Maxx, Burlington Coat Factory, Target, Walmart, Dublin, California",
+        "explanation": "ロス・ストアーズは、有名ブランドの衣料品や雑貨を割引価格で販売することで高い顧客満足度とリピート率を獲得している。"
+    },
+    {
+        "symbol": "MDLZ",
+        "name": "モンデリーズ・インターナショナル",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は世界中の多くの人々に愛されているお菓子や飲み物を製造・販売しています。クッキー、チョコレート、ガムなど様々な人気ブランドを持っていて、その売上は毎年数十億ドルに上ります。海外市場にも強い企業で、日本でもお馴染みの商品を扱っています。",
+        "keywords": "Oreo, Cadbury, Nabisco, Kraft Foods, Mondelez Brands, Ferrero, Mars Incorporated, PepsiCo, Nestlé, Beverages",
+        "explanation": "世界中で愛される強力なブランドポートフォリオと幅広い製品ラインアップを持つ。"
+    },
+    {
+        "symbol": "CP",
+        "name": "カナディアン・パシフィック・カンザス・シティ",
+        "market": "NYSE",
+        "simple_desc": "『この企業は鉄道を使って、貨物輸送を行っています。アメリカの大都市とカナダを繋ぐ重要な役割を果たしていて、石油や穀物を運ぶなど様々な荷物の輸送を手掛けています。』",
+        "keywords": "Canadian Pacific Railway, freight transportation, railroads, North America, agriculture, energy, Class I railroads, Union Pacific, BNSF Railway, Kansas City Southern",
+        "explanation": "カナダ太平洋鉄道は、北アメリカで重要な役割を果たす鉄道網を保有し、広範囲な荷物の輸送を行っている。"
+    },
+    {
+        "symbol": "MPWR",
+        "name": "モノリシック・パワー・システムズ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はパソコンやスマホに使われる充電回路などの部品を世界中で作っていて、クラウドコンピューティングや自動車にも使われています。売上は毎年伸びていて、将来性も高くなっています。日本でも人気のある銘柄です。",
+        "keywords": "Monolithic Power Systems, MPS, Power Management ICs, Analog Semiconductor, Cloud Computing, Telecommunications, Automotive, Industrial Automation, Consumer Electronics, Texas Instruments, STMicroelectronics, ON Semiconductor",
+        "explanation": "モノリシックパワーシステムズは、高性能で省エネなパワー管理ICの開発と製造において世界トップクラスの技術力を誇る。"
+    },
+    {
+        "symbol": "SU",
+        "name": "サンコー・エナジー",
+        "market": "NYSE",
+        "simple_desc": "『この企業は太陽光パネルを販売して稼いでいます。海外に工場を持っていて、世界中から部品を集めて製品を作っています。再生可能エネルギー関連事業が注目されています。』",
+        "keywords": "サンコー・エナジー, SU, 太陽光パネル, 再生可能エネルギー, 製造業, 電気機器, 日本企業, 海外市場, 環境問題",
+        "explanation": "国内外の需要に迅速に対応できるグローバルなサプライチェーンが強み。"
+    },
+    {
+        "symbol": "GM",
+        "name": "ゼネラル・モーターズ（ＧＭ）",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中で車をたくさん作って売っている会社です。  アメリカ国内では特に人気が高くて、たくさんの人に買われています。 これからも新しい車を作り続け、世界中の人を乗せていくために頑張っています。",
+        "keywords": "General Motors, Chevrolet, GMC, Buick, Cadillac, Stellantis, Ford, Toyota, Volkswagen, Automotive Industry",
+        "explanation": "歴史とスケール、そしてブランド力を持つ世界最大の自動車メーカーの1つである。"
+    },
+    {
+        "symbol": "TEL",
+        "name": "ＴＥコネクティビティ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、通信設備を製造して世界中で使われています。特に、データセンター向けのネットワーク機器が人気です。日本の企業ですが、米国でも活躍していますので、米国市場に興味のある日本人が注目する銘柄となっています。",
+        "keywords": "TE Connectivity, Network equipment, Data center, Telecommunications industry, Connectivity solutions, Electrical connectors, Sensors, Industrial automation, Amphenol, Molex, Raychem",
+        "explanation": "高品質で信頼性の高い製品と、幅広い製品ポートフォリオがTELの強みである。"
+    },
+    {
+        "symbol": "AEP",
+        "name": "アメリカン・エレクトリック・パワー",
+        "market": "NASDAQ",
+        "simple_desc": "『この企業は電気会社です。』アメリカのたくさんの人に電気を届けたり、発電したりして稼いでいます。再生可能エネルギーにも力を入れていて、環境に優しい電力供給を目指しています。",
+        "keywords": "American Electric Power, AEP, electricity, power generation, utilities, renewable energy, Duke Energy, NextEra Energy, FirstEnergy, Exelon, regulated utility, electric grid, investor relations",
+        "explanation": "幅広い事業範囲と安定的な収益基盤を持つ、アメリカ最大の電力会社の一つです。"
+    },
+    {
+        "symbol": "HOOD",
+        "name": "ロビンフッド・マーケッツ Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業はアメリカのオンライン株式取引プラットフォームを運営しています。誰でも簡単に株式や投資信託などの金融商品を購入できるため、近年人気があります。スマホアプリを使えばどこでも手軽に投資ができるのが魅力です。",
+        "keywords": "Robinhood Markets, stock trading app, online brokerage, commission-free trading, investing app, Wall Street, Charles Schwab, Fidelity Investments, TD Ameritrade, Fintech, disruptive innovation",
+        "explanation": "Robinhoodは、特に若年層に人気のある使いやすいプラットフォームと手数料の無料取引で注目を集めている。"
+    },
+    {
+        "symbol": "TDG",
+        "name": "トランスダイム・グループ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、自動車や家電製品で使われる部品を作っています。世界の工場を保有し、たくさんのメーカーに部品を供給することで儲けています。米国市場では、日本メーカーと同じように信頼できる会社として知られています。",
+        "keywords": "TransDigm Group, Aerospace Components, Aircraft Parts, Industrial Manufacturing, Supply Chain Management, Defense Industry, Aftermarket Parts, Global Footprint, M&A Strategy, Aviation",
+        "explanation": "多角化されたポートフォリオとグローバルな供給網を持つTransDigmは、航空宇宙業界におけるリーダーとしての地位を確立しています。"
+    },
+    {
+        "symbol": "B",
+        "name": "バリック・マイニング",
+        "market": "NYSE",
+        "simple_desc": "この企業は世界中の会社が持続可能なビジネス practices を実践することを奨励して報酬を得ている。日本でも多くの企業が取り組みを見せており、注目されている。",
+        "keywords": "B corporation, Sustainability, ESG investing, Social impact, Transparency, Accountability, Certified B Corporation, Impact Assessment, Global network, Corporate social responsibility",
+        "explanation": "世界中の企業が持続可能なビジネス practices を実践するように促す組織として、大きな影響力を持つ。"
+    },
+    {
+        "symbol": "CTAS",
+        "name": "シンタス",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は靴のデザインや製造をしている。世界中でたくさんのブランドに注文を受けて、その靴を作っているんだ。デザインが斬新で高品質なため、人気が高いよ。",
+        "keywords": "athletic footwear, footwear industry, Nike, Adidas, Under Armour, Puma, Skechers, Converse, design, manufacturing",
+        "explanation": "シンタスの強みは、世界トップブランドに革新的な靴のデザインを提供する能力にある。"
+    },
+    {
+        "symbol": "CIEN",
+        "name": "シエナ",
+        "market": "NYSE",
+        "simple_desc": "この企業は通信会社のネットワークを支える装置やソフトウェアを作って販売しています。高速インターネットで使われている光ファイバー通信に特化していて、世界中の大手通信会社から信頼されています。アメリカでは光回線の整備が進むため、将来性も高いと言われています。",
+        "keywords": "Ciena Corporation, Optical networking, Software, Gary Smith, AT&T, Deutsche Telekom, KT Corporation, Verizon Communications, Telecom industry, Fiber optics, Networking equipment",
+        "explanation": "世界をリードする光ファイバー通信技術と、顧客満足度の高いサービスがCienaの大きな強みです。"
+    },
+    {
+        "symbol": "AON",
+        "name": "エーオン Ａ",
+        "market": "NYSE",
+        "simple_desc": "『この企業は世界中でリスクや人材に関する問題を解決するサービスを提供しています。大きな会社と契約して保険の売買や退職プランの相談などを手伝うことで利益を得ています。』",
+        "keywords": "Aon plc, Aon, Risk Capital, Human Capital, Insurance Broker, Reinsurance, Retirement Plans, Pension Plans, Talent Advisory, Marsh & McLennan Companies, Willis Towers Watson, Financial Services, Professional Services",
+        "explanation": "世界第2位の規模を誇り、リスク管理と人材関連サービスで幅広い顧客に選ばれている強みを持つ。"
+    },
+    {
+        "symbol": "KMI",
+        "name": "キンダー・モルガン",
+        "market": "NYSE",
+        "simple_desc": "この企業は、アメリカで一番大きな原油パイプライン会社です。原油を運び出すことで儲かっています。原油が流れても安全に運ばれるように、たくさんのパイプラインを持っているところが強みです。",
+        "keywords": "Kinder Morgan Inc., Energy infrastructure, pipelines, oil transportation, gas pipelines, North America, energy sector, midstream, infrastructure investment, logistics",
+        "explanation": "北米で最も大きなエネルギーインフラストラクチャ企業であり、広範なパイプラインネットワークを持つことで、安定的な収益源を確保している。"
+    },
+    {
+        "symbol": "ELV",
+        "name": "エレバンス・ヘルス",
+        "market": "NYSE",
+        "simple_desc": "この企業は、古い車のリサイクルと再利用を促進するヨーロッパ連合（EU）の方針に沿って、自動車のリサイクルプログラムを提供しています。",
+        "keywords": "End of Life Vehicles Directive, ELV recycling, Automotive recycling, European Union, Waste management, Sustainability, Circular economy, Automobile industry, Legislation, Regulations",
+        "explanation": "EUのELV指令に基づくリサイクルビジネスモデルが強み。"
+    },
+    {
+        "symbol": "DLR",
+        "name": "デジタル・リアルティ・トラスト",
+        "market": "NYSE",
+        "simple_desc": "この企業はアメリカにある建物を所有して家賃を稼いでいます。世界中にオフィスやショッピングモールなどたくさんの物件を持っていて、その家賃収入が主な儲けになります。日本でも有名な会社のビルも、もしかしたらここの物件かもしれません。",
+        "keywords": "デジタル・リアルティ・トラスト, DLR, Real Estate Investment Trust, REIT, Commercial Real Estate, Property Management, Dividend Yield, Simon Property Group, Vornado Realty Trust, AvalonBay Communities",
+        "explanation": "DLRは、世界各地に幅広く展開する多様な商業不動産資産を持つことで安定した収益を確保している。"
+    },
+    {
+        "symbol": "EOG",
+        "name": "ＥＯＧリソーシーズ",
+        "market": "NYSE",
+        "simple_desc": "この企業は、目の動きを計測する技術を使って、眼科診断や医療機器開発などで事業を行っています。",
+        "keywords": "Electrooculography, EOG, eye movement measurement, ophthalmology, medical devices, biotechnology, healthcare, vision research, neurology, sensors",
+        "explanation": "世界トップレベルのEOG技術を持つことで、医療機器開発への貢献度が非常に高く評価されています。"
+    },
+    {
+        "symbol": "WBD",
+        "name": "ワーナー・ブラザース・ディスカバリー・シリーズ Ａ",
+        "market": "NASDAQ",
+        "simple_desc": "この企業は映画やテレビ番組を作ったり販売したりして稼いでいます。有名なキャラクターやストーリーを生かした作品も多く、世界中の人々に愛されています。最近ではストリーミングサービスも展開しており、動画配信市場でも力を付けています。",
+        "keywords": "ワーナーブラザース, ディスカバリーチャンネル, HBO, DCコミック, ハリーポッター, 映画, テレビ番組, ストリーミング, ディズニー, コムキャスト, メディア企業",
+        "explanation": "幅広いコンテンツライブラリとグローバルなブランド力を持つ、世界有数のエンターテインメント巨人が強み。"
+    },
+    {
+        "symbol": "CNI",
+        "name": "カナディアン・ナショナル・レールウェイ",
+        "market": "NYSE",
+        "simple_desc": "『この企業はカナダ全土に鉄道網を敷き、貨物輸送と旅客輸送を行っています。』",
+        "keywords": "Canadian National Railway, CNI, Rail Transportation, Freight Transport, Passenger Rail, North America, Logistics, Transportation Sector, CN Rail, Union Pacific, BNSF Railway",
+        "explanation": "北米最大の鉄道ネットワークを持つことで、幅広い商品と旅客の輸送をカバーし、安定収入源を獲得している。"
+    }
+]
