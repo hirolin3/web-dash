@@ -11,6 +11,30 @@ def load_data(file_path):
     with open(file_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
+def get_smart_distractors(target, all_stocks):
+    """
+    ターゲットに対して「似た名前」または「同じ業種」の選択肢を優先的に選ぶ
+    """
+    distractors = []
+    
+    # 1. 似た名前を探す（例：三菱、三井、日本、HDなどを含むもの）
+    # 最初の2文字くらいが一致するものを探す
+    prefix = target['name'][:2]
+    similar_names = [s for s in all_stocks if s['name'].startswith(prefix) and s['name'] != target['name']]
+    distractors.extend(similar_names)
+    
+    # 2. 同じ業種から補充
+    same_industry = [s for s in all_stocks if s.get('industry') == target.get('industry') and s not in distractors and s['name'] != target['name']]
+    distractors.extend(same_industry)
+    
+    # それでも足りなければランダム
+    if len(distractors) < 3:
+        others = [s for s in all_stocks if s not in distractors and s['name'] != target['name']]
+        distractors.extend(random.sample(others, 3 - len(distractors)))
+    
+    # 上位3つ（似た名前 or 同業）をハズレとして採用
+    return random.sample(distractors[:8], 3) # 上位8件からランダムに3つ選ぶと毎回変わって良い
+
 # 2. セッション状態の管理
 if 'quiz_state' not in st.session_state:
     st.session_state.quiz_state = "question"
